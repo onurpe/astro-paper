@@ -127,7 +127,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     }
 
     if (window.netlifyIdentity) {
-      window.netlifyIdentity.on("init", user => {
+      window.netlifyIdentity.on((user: any) => {
         if (!user) {
           window.netlifyIdentity.on("login", () => {
             document.location.href = "/admin/";
