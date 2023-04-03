@@ -3,6 +3,8 @@ title: How to prepare a good soil for tomato plant
 description: "Here are some steps for creating and fertilizing soil for tomato
   plants, from seed to harvest:"
 pubDatetime: 2023-04-03T22:19:35.438Z
+tags:
+  - tomato
 ---
 ## Preparing a good soil for tomato plants is essential for healthy plant growth and abundant fruit production. Here are some steps for creating and fertilizing soil for tomato plants, from seed to harvest:
 
