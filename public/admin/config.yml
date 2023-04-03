@@ -18,7 +18,7 @@ collections:
           label: "Layout",
           name: "layout",
           widget: "hidden",
-          default: "../../layouts/PostDetails.astro",
+          default: "$/layouts/PostDetails.astro",
         }
       - { label: "Title", name: "title", widget: "string", required: true }
       - {
