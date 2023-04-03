@@ -5,7 +5,7 @@ description: With a little bit of planning and care, your balcony garden can be
   balcony into green lush.
 pubDatetime: 2023-04-02T23:24:26.792Z
 featured: true
-ogImage: public/assets/balcony-garden-idea-ornamental-plants.jpg
+ogImage: /assets/balcony-garden-idea-ornamental-plants.jpg
 tags:
   - balcony-gardening-starters
 ---
@@ -20,7 +20,7 @@ Balcony gardening can be a fun and rewarding hobby, especially for those who liv
 
   While you can grow plants in just about any type of container, it's important to choose ones that are the right size and shape for the plants you want to grow. For example, taller plants, such as tomatoes and peppers, will need larger pots with deep roots, while smaller herbs and lettuces can thrive in shallow containers. You can also use hanging baskets or wall planters to make use of vertical space on your balcony.
 
-  ![choosing right container size for plants](/assets/choosing-the-right-pot-size-for-plants.jpg "Photo by <a href=\\\\"https://unsplash.com/@chuckcollingwood?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\\\\">Charles C. Collingwood</a> on <a href=\\\\"https://unsplash.com/photos/ke4IpOHbKC0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\\\\">Unsplash</a>")
+  ![Use containers wisely](/assets/choosing-the-right-pot-size-for-plants.jpg "Use containers wisely")
 * ## Practice good watering habits:
 
   Proper watering is crucial for keeping your balcony garden healthy and thriving. Make sure to water your plants regularly, but avoid overwatering, as this can lead to root rot and other problems. It's also a good idea to use a moisture meter or stick your finger in the soil to check for moisture before watering.
