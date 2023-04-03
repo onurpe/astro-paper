@@ -9,27 +9,32 @@ ogImage: /assets/balcony-garden-idea-ornamental-plants.jpg
 tags:
   - balcony-gardening-starters
 ---
+
 Balcony gardening can be a fun and rewarding hobby, especially for those who live in apartments or have limited outdoor space. Not only does it provide a chance to grow your own fresh herbs, vegetables, and flowers, but it can also be a great way to add some green to your outdoor space and bring a sense of nature to your home. If you're new to balcony gardening or looking for some inspiration, here are a few ideas to get you started:
 
-* ## Choose the right plants:
+- ## Choose the right plants:
 
   When selecting plants for your balcony garden, consider the amount of sunlight your balcony gets, as well as the size and type of container you have. Some plants, such as tomatoes, peppers, and herbs, require a lot of sunlight, while others, such as lettuce and spinach, do well in partial shade. It's also a good idea to choose plants that are well-suited to container gardening and won't outgrow their pots.
 
-  ![tomato in balcony](/assets/tomato-in-pot-balcony.jpg "tomato in balcony")
-* ## Use containers wisely:
+  ![tomato in balcony](/src/assets/tomato-in-pot-balcony.jpg "tomato in balcony")
+
+- ## Use containers wisely:
 
   While you can grow plants in just about any type of container, it's important to choose ones that are the right size and shape for the plants you want to grow. For example, taller plants, such as tomatoes and peppers, will need larger pots with deep roots, while smaller herbs and lettuces can thrive in shallow containers. You can also use hanging baskets or wall planters to make use of vertical space on your balcony.
 
   ![Use containers wisely](/assets/choosing-the-right-pot-size-for-plants.jpg "Use containers wisely")
-* ## Practice good watering habits:
+
+- ## Practice good watering habits:
 
   Proper watering is crucial for keeping your balcony garden healthy and thriving. Make sure to water your plants regularly, but avoid overwatering, as this can lead to root rot and other problems. It's also a good idea to use a moisture meter or stick your finger in the soil to check for moisture before watering.
 
   ![watering plants](public/assets/plant-watering.jpg "watering plants")
-* ## Fertilize regularly:
+
+- ## Fertilize regularly:
 
   Just like any other garden, balcony gardens need nutrients to grow and thrive. Choose a good-quality fertilizer that's appropriate for the type of plants you're growing and follow the instructions on the package for how often to fertilize.
-* ## Protect your plants from pests:
+
+- ## Protect your plants from pests:
 
   Pests can be a major issue for balcony gardens, especially if you live in an apartment complex where pests can easily spread from one unit to another. Keep an eye out for common pests, such as aphids and spider mites, and use organic pest control methods, such as neem oil or diatomaceous earth, to keep them at bay.
 
