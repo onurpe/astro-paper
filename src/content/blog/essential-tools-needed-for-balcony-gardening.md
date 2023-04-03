@@ -3,6 +3,7 @@ title: Essential Tools Needed For Balcony Gardening
 description: There are a few essential tools and assets that are important for
   balcony gardening, here you can find the list.
 pubDatetime: 2023-04-03T22:17:00.587Z
+featured: true
 tags:
   - balcony-gardening-starters
 ---
