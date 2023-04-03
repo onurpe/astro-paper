@@ -14,12 +14,6 @@ collections:
     delete: true
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {
-          label: "Layout",
-          name: "layout",
-          widget: "hidden",
-          default: "$/layouts/PostDetails.astro",
-        }
       - { label: "Title", name: "title", widget: "string", required: true }
       - {
           label: "Description",
@@ -40,4 +34,5 @@ collections:
           required: false,
         }
       - { label: "Tags", name: "tags", widget: "list", allow_add: true }
+      - { label: "Draft", name: "draft", widget: "boolean", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
