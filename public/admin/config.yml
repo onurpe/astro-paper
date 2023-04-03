@@ -3,8 +3,8 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
 
 # These lines should *not* be indented
-media_folder: "public/assets" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/assets" # The src attribute for uploaded media will begin with /images/uploads
+media_folder: "public/images/uploads" # Folder where user uploaded files should go
+public_folder: "/images/uploads"
 
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
