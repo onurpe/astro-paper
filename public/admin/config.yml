@@ -33,6 +33,7 @@ collections:
           widget: "boolean",
           required: false,
         }
+      - { label: "OG Image", name: "ogImage", widget: "image", required: false }
       - { label: "Tags", name: "tags", widget: "list", allow_add: true }
       - { label: "Draft", name: "draft", widget: "boolean", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
