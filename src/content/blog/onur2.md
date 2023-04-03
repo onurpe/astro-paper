@@ -8,4 +8,4 @@ tags:
 ---
 Onur2
 
-![Onur2](/assets/charles-c-collingwood-ke4ipohbkc0-unsplash-1-.jpg "Onur2")
+![Onur2](../assets/astro-blog-course-1-intro-and-installation-5-54-screenshot.jpg "Onur2")
