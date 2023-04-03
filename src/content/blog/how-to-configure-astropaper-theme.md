@@ -11,7 +11,6 @@ tags:
   - configuration
   - docs
 ---
-
 AstroPaper is a highly customizable Astro blog theme. With AstroPaper, you can customize everything according to your personal taste. This article will explain how you can make some customizations easily in the config file.
 
 ## Table of contents
@@ -67,11 +66,11 @@ If you specify `LOGO_IMAGE.enable` => `false`, AstroPaper will automatically con
 
 If you specify `LOGO_IMAGE.enable` => `true`, AstroPaper will use the logo image as the site's main logo.
 
-You have to specify `logo.png` or `logo.svg` under `/public/assets` directory. Currently, only svg and png image file formats are supported. (**_Important!_** _logo name has to be logo.png or logo.svg)_
+You have to specify `logo.png` or `logo.svg` under `/public/assets` directory. Currently, only svg and png image file formats are supported. (***Important!*** *logo name has to be logo.png or logo.svg)*
 
 If your logo image is png file format, you have to set `LOGO_IMAGE.svg` => `false`.
 
-It is recommended that you specify width and height of your logo image. You can do that by setting `LOGO_IMAGE.width` _and_ `LOGO_IMAGE.height`
+It is recommended that you specify width and height of your logo image. You can do that by setting `LOGO_IMAGE.width` *and* `LOGO_IMAGE.height`
 
 ## Configuring social links
 
@@ -125,6 +124,8 @@ export const SOCIALS: SocialObjects = [
 ```
 
 Another thing to note is that you can specify the `linkTitle` in the object. This text will display when hovering on the social icon link. Besides, this will improve accessibility and SEO. AstroPaper provides default link title values; but you can replace them with your own texts.
+
+![](/images/uploads/urban-gardener.jpg)
 
 For example,
 
