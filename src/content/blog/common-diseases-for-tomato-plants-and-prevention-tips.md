@@ -4,8 +4,10 @@ description: Tomato plants are susceptible to a variety of diseases, which can
   affect the health and productivity of the plant. So it is important to take
   preventative measures.
 pubDatetime: 2023-04-03T22:22:37.865Z
+tags:
+  - tomato
 ---
-![Common diseases for tomato plants and prevention tips](/images/uploads/growing-tomato-indoors-1-.jpg)
+![Common diseases for tomato plants and prevention tips](/images/uploads/growing-tomato-indoors-1-.jpg "Common diseases for tomato plants and prevention tips")
 
 ## Tomato plants are susceptible to a variety of diseases, which can affect the health and productivity of the plant. Some common diseases of tomato plants include:
 
