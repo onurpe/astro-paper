@@ -9,7 +9,7 @@ ogImage: /assets/balcony-garden-idea-ornamental-plants.jpg
 tags:
   - balcony-gardening-starters
 ---
-![](src/assets/cherry-tomato-in-pot.jpg)
+![](src/assets/tomato-in-pot-balcony.jpg)
 
 Balcony gardening can be a fun and rewarding hobby, especially for those who live in apartments or have limited outdoor space. Not only does it provide a chance to grow your own fresh herbs, vegetables, and flowers, but it can also be a great way to add some green to your outdoor space and bring a sense of nature to your home. If you're new to balcony gardening or looking for some inspiration, here are a few ideas to get you started:
 
