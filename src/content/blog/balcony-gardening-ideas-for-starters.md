@@ -11,6 +11,8 @@ tags:
 ---
 Balcony gardening can be a fun and rewarding hobby, especially for those who live in apartments or have limited outdoor space. Not only it does provide a chance to grow your own fresh herbs, vegetables, and flowers, but it can also be a great way to add some green to your outdoor space and bring a sense of nature to your home.
 
+![Small balcony garden](/images/uploads/small-balcony-garden.jpg "Small balcony garden")
+
 Balcony gardening has many other benefits, including improving air quality, reducing stress, increasing physical activity, enhancing the aesthetic value of your home, providing educational opportunities, and offering environmental benefits.
 
 If you're new to balcony gardening or looking for some inspiration, this guide will help you to get you started.
