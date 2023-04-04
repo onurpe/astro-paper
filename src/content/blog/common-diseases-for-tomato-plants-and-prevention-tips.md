@@ -6,6 +6,7 @@ description: Tomato plants are susceptible to a variety of diseases, which can
 pubDatetime: 2023-04-03T22:22:37.865Z
 tags:
   - tomato
+  - plant-disease
 ---
 
 Tomatoes are vulnerable to a range of diseases and pests that can affect their growth and fruit production.
