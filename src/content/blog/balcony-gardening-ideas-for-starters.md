@@ -15,7 +15,7 @@ Balcony gardening can be a fun and rewarding hobby, especially for those who liv
 
 * ## Choose the right plants:
 
-  When selecting plants for your balcony garden, consider the amount of sunlight your balcony gets, as well as the size and type of container you have. Some plants, such as tomatoes, peppers, and herbs, require a lot of sunlight, while others, such as lettuce and spinach, do well in partial shade. It's also a good idea to choose plants that are well-suited to container gardening and won't outgrow their pots.
+  When selecting plants for your balcony garden, consider the amount of sunlight your balcony gets, as well as the size and type of container you have. Some plants, such as [tomatoes](https://urbangardener.wiki/posts/growing-tomatoes-in-pots-from-seed-to-harvest/), peppers, and herbs, require a lot of sunlight, while others, such as lettuce and spinach, do well in partial shade. It's also a good idea to choose plants that are well-suited to container gardening and won't outgrow their pots.
 
   ![Selecting the right plants for your balcony garden](/images/uploads/cherry-tomato-in-pot.jpg "Selecting the right plants for your balcony garden")
 * ## Use containers wisely:
