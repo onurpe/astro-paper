@@ -10,7 +10,7 @@ Growing tomatoes in pots has become an increasingly popular option for home gard
 
 ## T﻿able of contents
 
-![How to prepare a good soil for tomato plant](/images/uploads/tomato-in-pot-balcony.jpg "How to prepare a good soil for tomato plant")
+![How to prepare a good soil for tomato plant](/images/uploads/transplanting-tomato-seedling-to-larger-pot.jpg "How to prepare a good soil for tomato plant")
 
 ## **W﻿hat is the best soil for tomato plants?**
 
