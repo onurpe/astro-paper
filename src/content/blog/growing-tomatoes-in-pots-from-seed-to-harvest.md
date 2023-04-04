@@ -10,7 +10,7 @@ tags:
 ---
 Growing tomatoes in pots is a great way to enjoy fresh, delicious tomatoes even if you don't have a garden. It's also an excellent option if you have limited space or want to grow tomatoes indoors. In this article, we will cover everything you need to know about growing tomatoes in pots, including how to grow tomatoes from seed, grow bags for tomatoes, and how long tomatoes take to grow.
 
-## T﻿able of Contents
+## Table of contents
 
 ## Essentials for Growing Tomatoes in Pots
 
