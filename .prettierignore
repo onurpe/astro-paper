@@ -1,7 +1,7 @@
 # Ignore everything
 /*
 public/robots.txt
-
+public/assets
 # Except these files & folders
 !/src
 !/public
