@@ -31,7 +31,7 @@ Planning a balcony garden can be a fun and rewarding activity, but it also invol
   ![Plant in pot getting sunlight](/images/uploads/plant-in-pot-getting-sunlight.jpg)
 * **Utilize floor and vertical planters:** Floor planters are a great way to add greenery to your balcony and can be used to grow a variety of plants. Vertical planters, such as living walls or hanging baskets, are perfect for small spaces and can add a dramatic element to your balcony garden.
 
-  ![Balcony shelf planter](/images/uploads/balcony-plant-shelf.jpg)
+  ![Balcony display shelf](/images/uploads/vertical-planter-wood.jpg)
 * **Research and plan your garden layout:** Spend time researching different plants and their growing requirements. Create a garden layout that takes into account the amount of space you have, the amount of sunlight your balcony receives, and the growing requirements of the plants you want to grow. 
 * **Determine your planting schedule:** Decide when you want to plant your seeds or seedlings based on the growing season and the requirements of the plants you want to grow. Consider factors such as temperature, soil moisture, and the amount of sunlight your balcony receives. This will help ensure that your plants have the best chance of success.
 * **Allocate time for maintenance and care:** Remember that planting is only the first step in creating a beautiful balcony garden. You'll also need to allocate time for maintenance and care, such as watering, fertilizing, and pruning your plants. Make sure to schedule time for these tasks so that your plants stay healthy and vibrant.
@@ -56,7 +56,7 @@ Container planters are the most common type of planter used for balcony gardenin
 
 Hanging baskets are a popular choice for small balconies or for adding visual interest to larger spaces. Advantages include their ability to add height and interest to your balcony garden, and their space-saving design. Disadvantages include their limited soil capacity and the need for regular watering.
 
-![]()
+![Hanging pot in balcony](/images/uploads/hanging-pot-balcony-gardening.jpg)
 
 #### R﻿ecommended plants for hanging baskets:
 
