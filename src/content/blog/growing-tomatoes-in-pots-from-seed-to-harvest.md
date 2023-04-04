@@ -3,7 +3,7 @@ title: "Growing Tomatoes in Pots: From Seed to Harvest"
 description: This article provides a detailed guide on how to grow tomatoes in
   pots, from starting with seeds to harvesting ripe fruit.
 pubDatetime: 2023-04-04T07:42:19.528Z
-featured: true
+featured: false
 ogImage: /images/uploads/tomato-in-pot-balcony.jpg
 tags:
   - tomato
