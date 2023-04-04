@@ -7,11 +7,15 @@ pubDatetime: 2023-04-03T22:22:37.865Z
 tags:
   - tomato
 ---
-Tomatoes are vulnerable to a range of diseases and pests that can affect their growth and fruit production. Here are some common issues that gardeners may encounter when [growing tomato plants](https://urbangardener.wiki/posts/growing-tomatoes-in-pots-from-seed-to-harvest/), along with their symptoms, prevention and treatment tips:
+Tomatoes are vulnerable to a range of diseases and pests that can affect their growth and fruit production. 
 
 ## Table of contents
 
 ![Common diseases for tomato plants and prevention tips](/images/uploads/growing-tomato-indoors-1-.jpg "Common diseases for tomato plants and prevention tips")
+
+## Common issues in tomato plants
+
+Here are some common issues that gardeners may encounter when [growing tomato plants](https://urbangardener.wiki/posts/growing-tomatoes-in-pots-from-seed-to-harvest/), along with their symptoms, prevention and treatment tips:
 
 1. **Yellow leaves:** Yellow leaves on tomato plants can indicate several issues, including nutrient deficiencies, overwatering, or fungal diseases. To prevent yellow leaves, make sure to provide your tomato plants with adequate water and nutrients, and avoid overwatering. If you notice yellow leaves, you can remove them to prevent the spread of disease.
 2. **No fruit:** If your tomato plant is healthy but not producing fruit, it may be due to a lack of pollination or insufficient light. To encourage pollination, you can gently shake the plant or use a small paintbrush to transfer pollen from flower to flower. If your plant is not getting enough light, consider moving it to a sunnier location or supplementing with grow lights.
