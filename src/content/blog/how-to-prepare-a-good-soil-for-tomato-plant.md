@@ -10,11 +10,11 @@ Growing tomatoes in pots has become an increasingly popular option for home gard
 
 ## T﻿able of contents
 
-![How to prepare a good soil for tomato plant](/images/uploads/transplanting-tomato-seedling-to-larger-pot.jpg "How to prepare a good soil for tomato plant")
-
 ## **W﻿hat is the best soil for tomato plants?**
 
 The best soil for growing tomatoes is a well-draining soil that is rich in organic matter and nutrients. A soil that is too compacted or heavy will not allow for proper drainage and can lead to issues like root rot. Additionally, a soil that is lacking in nutrients can result in poor growth and fruit production.
+
+![The best soil for tomato plants](/images/uploads/transplanting-tomato-seedling-to-larger-pot.jpg)
 
 To create the ideal soil for growing tomatoes, you can mix together equal parts of compost, peat moss, and perlite or vermiculite. This will provide a balance of nutrients, moisture retention, and drainage. You can also consider adding additional amendments like bone meal or blood meal to provide extra nutrients. It's important to note that the pH level of the soil should be between 6.0 and 6.8 for optimal tomato growth.
 
