@@ -7,7 +7,7 @@ pubDatetime: 2023-04-02T23:24:26.792Z
 featured: true
 ogImage: /assets/balcony-garden-idea-ornamental-plants.jpg
 tags:
-  - balcony-gardening-starters
+  - balcony gardening essentials
 ---
 Balcony gardening can be a fun and rewarding hobby, especially for those who live in apartments or have limited outdoor space. Not only it does provide a chance to grow your own fresh herbs, vegetables, and flowers, but it can also be a great way to add some green to your outdoor space and bring a sense of nature to your home.
 
