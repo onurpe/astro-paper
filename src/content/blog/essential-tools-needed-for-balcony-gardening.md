@@ -5,7 +5,7 @@ description: There are a few essential tools and assets that are important for
 pubDatetime: 2023-04-03T22:17:00.587Z
 featured: true
 tags:
-  - balcony-gardening-starters
+  - balcony-gardening-essentials
 ---
 
 There are a few essential tools and assets that are important for balcony gardening, including:
