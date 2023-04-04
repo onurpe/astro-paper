@@ -49,7 +49,7 @@ Container planters are the most common type of planter used for balcony gardenin
 #### R﻿ecommended plants for container planters:
 
 * Small containers: herbs (basil, parsley, cilantro), small vegetables (cherry tomatoes, lettuce, radishes), succulents
-* Medium containers: tomatoes, peppers, eggplants, beans, strawberries, dwarf fruit trees (citrus, figs)
+* Medium containers: [tomatoes](https://urbangardener.wiki/posts/growing-tomatoes-in-pots-from-seed-to-harvest/), peppers, eggplants, beans, strawberries, dwarf fruit trees (citrus, figs)
 * Large containers: shrubs (blueberries, raspberries, blackberries), dwarf trees (dwarf apple, peach, nectarine), ornamental grasses
 
 ### **Hanging Baskets:**
