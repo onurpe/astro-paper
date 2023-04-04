@@ -9,7 +9,7 @@ tags:
 ---
 Tomatoes are vulnerable to a range of diseases and pests that can affect their growth and fruit production. Here are some common issues that gardeners may encounter when [growing tomato plants](https://urbangardener.wiki/posts/growing-tomatoes-in-pots-from-seed-to-harvest/), along with their symptoms, prevention and treatment tips:
 
-## T﻿able of contents
+## Table of contents
 
 ![Common diseases for tomato plants and prevention tips](/images/uploads/growing-tomato-indoors-1-.jpg "Common diseases for tomato plants and prevention tips")
 
