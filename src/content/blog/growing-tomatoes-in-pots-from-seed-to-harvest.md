@@ -53,14 +53,14 @@ Grow bags are an excellent option for growing tomatoes in pots, as they're light
 * **Choose the right variety:** Some tomato varieties are better suited for growing in containers than others. Look for compact, determinate varieties that won't grow too tall or take up too much space. Some good options include patio tomatoes, cherry tomatoes, and bush tomatoes.
 * **Pick a sunny location:** Tomatoes need at least six to eight hours of direct sunlight per day, so make sure to choose a location that gets plenty of sun. If you don't have access to direct sunlight, consider using grow lights to supplement the natural light.
 * **Use the right container:** Choose a container that's at least 18 inches deep and 18 inches wide, with drainage holes to allow excess water to drain out. You can use plastic or ceramic pots, or even recycled containers like buckets or plastic storage bins.
-* **Use the right soil:** Use a high-quality potting mix that's specifically formulated for vegetables. Avoid using garden soil, as it can contain pests, diseases, and weed seeds.
+* **Use the right soil:** Use a high-quality potting mix that's specifically formulated for vegetables. Avoid using garden soil, as it can contain pests, diseases, and weed seeds. *(Check out soil guide for tomato plants)*
 * **Water regularly:** Tomatoes need regular watering, especially during the hot summer months. Keep the soil moist but not waterlogged, as overwatering can cause root rot.
 * **Fertilize regularly:** Tomatoes are heavy feeders and need regular fertilization to produce fruit. You can use a slow-release fertilizer or liquid fertilizer every two to three weeks during the growing season.
 * **Provide support:** As the tomato plant grows, it will need support to keep it from falling over. You can use a tomato cage, stake, or trellis to provide support.
 
   ![Providing support to tomato plant in pot](/images/uploads/providing-support-to-tomato-plants-in-pots.jpg "Providing support to tomato plant in pot")
 * **Prune as needed:** As the plant grows, you may need to prune away any suckers (small branches that grow between the main stem and the leaves) to focus the plant's energy on producing fruit.
-* **Watch for pests and diseases:** Keep an eye out for common tomato pests like aphids, spider mites, and whiteflies, and treat them promptly if you see any signs of infestation. You should also be on the lookout for diseases like blight, which can cause the plant to wilt and die.
+* **Watch for pests and diseases:** Keep an eye out for common tomato pests like aphids, spider mites, and whiteflies, and treat them promptly if you see any signs of infestation. You should also be on the lookout for diseases like blight, which can cause the plant to wilt and die. *(Check out [tomato plant disease treat guide](https://urbangardener.wiki/posts/common-tomato-plant-diseases-symptoms-prevention-and-treatment-tips/))*
 
 By following these tips and being consistent with your care, even beginners can successfully grow tomatoes in a balcony, near a window, or any indoor area.
 
