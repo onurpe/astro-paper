@@ -1,9 +1,11 @@
 ---
 title: Traditional Gardening vs Soilless Gardening
-description: "## Traditional gardening and soilless gardening are two different
+description: Traditional gardening and soilless gardening are two different
   approaches to growing plants, each with its own unique set of benefits and
-  drawbacks."
+  drawbacks.
 pubDatetime: 2023-04-03T22:15:16.730Z
+tags:
+  - soil
 ---
 
 ## Traditional gardening and soilless gardening are two different approaches to growing plants, each with its own unique set of benefits and drawbacks.
