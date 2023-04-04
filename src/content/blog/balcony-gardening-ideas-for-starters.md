@@ -17,7 +17,7 @@ Balcony gardening has many other benefits, including improving air quality, redu
 
 If you're new to balcony gardening or looking for some inspiration, this guide will help you to get you started.
 
-## T﻿able of contents
+## Table of contents
 
 ## Plan your balcony garden
 
