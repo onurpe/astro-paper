@@ -3,7 +3,7 @@
 public/robots.txt
 public/assets
 public/favicon.svg
-src/_redirects
+public/_redirects
 # Except these files & folders
 !/src
 !/public
