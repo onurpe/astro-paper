@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Urban Gardener",
   desc: "Helping urban dwellers turn their balconies, rooftops, and small outdoor spaces into lush gardens",
   title: "Urban Gardener",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "urbangardener-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 10,
 };
