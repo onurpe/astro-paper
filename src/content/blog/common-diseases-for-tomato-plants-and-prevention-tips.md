@@ -8,7 +8,7 @@ tags:
   - tomato
   - plant-disease
 ---
-Tomatoes are vulnerable to a wide range of pests and diseases, making it crucial to identify the cause of any issues with the plants. The Tomato Disorders page from Texas A&M provides a useful resource for recognizing the problem quickly and offering solutions. Whiteflies and hornworms are the most common pests found in tomato crops, along with flea beetles and aphids. Additionally, tomato plants are prone to blossom-end rot, which poses a high risk to their development.
+Tomatoes are vulnerable to a wide range of pests and diseases, making it crucial to identify the cause of any issues with the plants. Whiteflies and hornworms are the most common pests found in tomato crops, along with flea beetles and aphids. Additionally, tomato plants are prone to blossom-end rot, which poses a high risk to their development. 
 
 ## Table of contents
 
@@ -74,3 +74,5 @@ To avoid making your plants a target for diseases, follow these rules:
 * **Fertilize:** Fertilizing can help keep plants healthy and strong to stave off infection.
 
 By following these rules, you can greatly reduce the risk of your tomato plants being affected by diseases. If you do notice any signs of disease, it's important to act quickly to prevent it from spreading. There are a variety of treatments available, including fungicides and insecticides, but it's best to consult with a gardening professional for advice on the most effective treatment for your specific situation.
+
+> *T﻿his article is a part of '[growing tomatoes in pots](https://urbangardener.wiki/posts/growing-tomatoes-in-pots-from-seed-to-harvest/)' serie. Check the main article or the tag below for more related content.*
