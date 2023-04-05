@@ -5,6 +5,7 @@ public/assets
 public/favicon.svg
 public/_redirects
 public/urbangardener-og.jpg
+public/images/*
 # Except these files & folders
 !/src
 !/public
