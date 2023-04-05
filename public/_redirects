@@ -13,4 +13,4 @@
 # Rewrite a path
 # /pass-through /index.html    200
 
-/test               /
+/posts/1/               /posts/
