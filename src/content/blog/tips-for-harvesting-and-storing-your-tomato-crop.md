@@ -4,6 +4,9 @@ description: Tips for harvesting and storing your tomato plants, whether you're
   growing them in pots or a garden. Optimize your tomato harvest with our
   helpful guide.
 pubDatetime: 2023-04-05T21:55:57.148Z
+ogImage: /images/uploads/growing-tomatoes.jpg
+tags:
+  - tomato
 ---
 Growing tomatoes in pots is a popular choice for gardeners, as these versatile fruits can be used in a variety of dishes and are relatively easy to cultivate. However, knowing when and how to harvest your tomatoes can be a bit of a challenge. In this article, we'll provide some tips and tricks for harvesting your tomatoes, including how to tell when they're ripe, how to store them, and what to do with green tomatoes if frost is on the horizon. Whether you're [growing tomato in pots](https://urbangardener.wiki/posts/growing-tomatoes-in-pots-from-seed-to-harvest/) or in a garden, whether you're a seasoned gardener or just starting out, these tips will help you make the most of your tomato harvest.
 
