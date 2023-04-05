@@ -3,7 +3,7 @@ title: "Growing Tomatoes in Pots: From Seed to Harvest"
 description: This article provides a detailed guide on how to grow tomatoes in
   pots, from starting with seeds to harvesting ripe fruit.
 pubDatetime: 2023-04-04T07:42:19.528Z
-featured: false
+featured: true
 ogImage: /images/uploads/tomato-in-pot-balcony.jpg
 tags:
   - tomato
@@ -12,25 +12,15 @@ For those looking to cultivate tomatoes in pots, our top recommendation is to op
 
 ## Table of contents
 
-## Essentials for Growing Tomatoes in Pots
-
-Before we dive into the specifics of growing tomatoes in pots, let's review some of the essential things you'll need:
-
-* **A pot or container:** You'll need a container that's at least 18 inches deep and 18 inches wide. The bigger the pot, the better, as it will provide more space for the roots to grow. Make sure the container has drainage holes to allow excess water to drain out.
-
-  ![Tomato plant in pot in balcony](/images/uploads/tomato-in-pot-balcony.jpg "Tomato plant in pot in balcony")
-* **Soil:** Tomatoes need nutrient-rich soil to grow, so make sure to use potting soil that's specifically formulated for vegetables. Avoid using garden soil, as it can contain pests, diseases, and weed seeds.
-* **Tomato plants or seeds:** You can either start your tomato plants from seed or buy young plants from a garden center. If you're starting from seed, you'll need to start them indoors about six to eight weeks before the last frost in your area.
-* **Water:** Tomatoes need regular watering, especially during the hot summer months. Make sure to keep the soil moist but not waterlogged, as overwatering can cause root rot.
-* **Fertilizer:** Tomatoes are heavy feeders and need regular fertilization to produce fruit. You can use a slow-release fertilizer or liquid fertilizer every two to three weeks during the growing season.
-
 ## Hоw to Grow Tomatoes іn Pоtѕ: Step by Step Guide
 
 Growing tomatoes in pots can be a rewarding experience, and if you follow these steps, you can enjoy fresh, juicy tomatoes all summer long. Here is a step-by-step guide on how to grow tomatoes in pots.
 
 ### **Step 1: Choose the Right Container**
 
-You need to look for a container that can hold at least 5 gallons of soil and is approximately 14-20 inches in diameter. A bucket can work well for this purpose, and if it has a handle, it will make it easier to move it around if needed. A large enough container will help your plant develop a large and healthy root system. Also, add a few drainage holes at the bottom of the container with a drill or a hammer and nail.
+You need to look for a container that can hold at least 5 gallons (19 liters) of soil and is approximately 15-20 inches (40-50cm) in diameter. A bucket can work well for this purpose, and if it has a handle, it will make it easier to move it around if needed. A large enough container will help your plant develop a large and healthy root system. Also, add a few drainage holes at the bottom of the container with a drill or a hammer and nail.
+
+![Choose the right container for your tomato plants](/images/uploads/transplanting-tomato-seedling-to-larger-pot.jpg "Choose the right container for your tomato plants")
 
 ### Step 2: Planting
 
@@ -40,9 +30,15 @@ When planting cherry tomato plants in containers, keep it to one plant per pot. 
 
 When planting any variety of tomato, make sure to use good quality soil and compost mixture. Fill your container three-quarters of the way full with soil. Transplant your cherry tomato plant in the center, being sure to loosen up the root base to encourage better growth. Add more soil, leaving about 1 inch of space from the top of the container. As the soil settles, you will want to add in a bit more. Once flowers start to appear, top dress around the base of the plant with compost. As you water, the nutrients from the newly added compost will slowly work their way down to the plant's roots, making absorption easier.
 
+Tomatoes are heavy feeders and need regular fertilization to produce fruit. You can use a slow-release fertilizer or liquid fertilizer every two to three weeks during the growing season.
+
+![Make sure to use good quality soil and compost mixture](/images/uploads/potting-soil-1-.jpg "Make sure to use good quality soil and compost mixture")
+
 ### Step 4: Support
 
 Cherry tomato plants can become heavy with small tomatoes, and a central stake usually provides enough support. To secure the stem to the stake, tie a loop using gardening twine, ensuring enough space for future growth.
+
+![Provide support to tomato plants](/images/uploads/providing-support-to-tomato-plants-in-pots.jpg "Provide support to tomato plants")
 
 ### Step 5: Water
 
@@ -60,16 +56,14 @@ Determinate tomatoes are compact and easy to harvest from, while indeterminate t
 
 Growing tomatoes in pots can be a great way to enjoy fresh produce at home. However, there are a few things to keep in mind to ensure your plants grow strong and healthy.
 
-* Provide ample drainage: It's essential to have a way for excess water to escape from the container, so it doesn't pool at the bottom and damage the plant's root system. You can either drill holes in the bottom or use a hammer and nail to create a few openings.
-* Give plants enough space to grow: To develop a sturdy root system, tomato plants need enough room to grow. For this reason, it's recommended to use a container that's at least 5 gallons in size.
-* Keep containers clean: Before using any container for growing produce, it's important to clean it thoroughly with soap and water. You can also allow it to dry in the sun to sterilize it.
-* Choose a sunny location: Tomatoes need at least six hours of sunlight daily, so it's crucial to choose a spot that gets plenty of sunshine. If possible, group your plants together for easier care, but avoid letting them touch. Outdoor carts with wheels can make moving your plants more manageable.
-* Keep plants close to water: Potted tomato plants require a steady amount of water. Therefore, it's best to locate your planters close to a water supply or at least close enough to reach with a hose. Please note that tap water often contains chlorine, which can be harmful to plants. If you're using tap water, it's best to let it sit out for a day or two before using it to water your plants to allow the chlorine to dissipate. With containers, you'll need to water more frequently than an in-ground garden, so set things up to make this daily chore a bit easier to do.
-* Watch for pests and diseases: Keep an eye out for common tomato pests like aphids, spider mites, and whiteflies, and treat them promptly if you see any signs of infestation. You should also be on the lookout for diseases like blight, which can cause the plant to wilt and die. *Check out [tomato plant disease treat guide](https://urbangardener.wiki/posts/common-tomato-plant-diseases-symptoms-prevention-and-treatment-tips/)*
+* **Provide ample drainage:** It's essential to have a way for excess water to escape from the container, so it doesn't pool at the bottom and damage the plant's root system. You can either drill holes in the bottom or use a hammer and nail to create a few openings.
+* **Give plants enough space to grow:** To develop a sturdy root system, tomato plants need enough room to grow. For this reason, it's recommended to use a container that's at least 5 gallons in size.
+* **Keep containers clean:** Before using any container for growing produce, it's important to clean it thoroughly with soap and water. You can also allow it to dry in the sun to sterilize it.
+* **Choose a sunny location:** Tomatoes need at least six hours of sunlight daily, so it's crucial to choose a spot that gets plenty of sunshine. If possible, group your plants together for easier care, but avoid letting them touch. Outdoor carts with wheels can make moving your plants more manageable.
 
-By following these tips and being consistent with your care, even beginners can successfully grow tomatoes in a balcony, near a window, or any indoor area.
-
-> *C﻿heck out [balcony gardening ideas](https://urbangardener.wiki/posts/balcony-gardening-ideas-w-plant--planter-tips/) for detailed info.*
+  ![Choose a spot that gets plenty of sunshine for your tomato plants](/images/uploads/tomato-in-pot-balcony.jpg "Choose a spot that gets plenty of sunshine for your tomato plants")
+* **Keep plants close to water:** Potted tomato plants require a steady amount of water. Therefore, it's best to locate your planters close to a water supply or at least close enough to reach with a hose. Please note that tap water often contains chlorine, which can be harmful to plants. If you're using tap water, it's best to let it sit out for a day or two before using it to water your plants to allow the chlorine to dissipate. With containers, you'll need to water more frequently than an in-ground garden, so set things up to make this daily chore a bit easier to do.
+* **Watch for pests and diseases:** Keep an eye out for common tomato pests like aphids, spider mites, and whiteflies, and treat them promptly if you see any signs of infestation. You should also be on the lookout for diseases like blight, which can cause the plant to wilt and die. *Check out [tomato plant disease treat guide](https://urbangardener.wiki/posts/common-tomato-plant-diseases-symptoms-prevention-and-treatment-tips/)*
 
 ## How Long Do Tomatoes Take to Grow?
 
@@ -83,4 +77,4 @@ Additionally, the amount of sunlight, water, and nutrients the tomato plants rec
 
 With proper care and optimal growing conditions, tomatoes grown in containers can produce ripe fruit in as little as 60 to 70 days. However, it's important to keep in mind that tomato plants are sensitive to changes in their environment, and their growth rate can be impacted by unexpected weather conditions, pests, or diseases.
 
-In summary, while the exact time it takes for tomatoes to grow and produce fruit in containers can vary, most varieties will take around 75 to 90 days from transplanting to harvest.
+While the exact time it takes for tomatoes to grow and produce fruit in containers can vary, most varieties will take around 75 to 90 days from transplanting to harvest.
