@@ -31,11 +31,31 @@ Here are some common issues and tips for prevention and treatment for your tomat
    ![This sucking insect causes chlorotic spots, leaf wilting, and the spread of disease to foliage.](/images/uploads/whitefly-tomato.jpeg "This sucking insect causes chlorotic spots, leaf wilting, and the spread of disease to foliage.")
 
    This sucking insect causes chlorotic spots, leaf wilting, and the spread of disease to foliage. *Infestations should be treated immediately to prevent plant weakening. To prevent, use sticky traps and reflective mulch to deter them. Neem oil and insecticidal soap can also help control the population.*
-4. **Hornworms:** These caterpillars can grow over 3 inches long and cause damage to foliage and unripe fruits. They appear near mid-summer after moths lay eggs on the underside of leaves. *Physical removal by hand is the easiest control method. Use a biological control like Bacillus thuringiensis (BT) or spinosad, which are toxic to the caterpillar but safe for humans and other beneficial insects.*
-5. **Fruit-worm Larva:** These pests cause extensive damage and rot by entering green fruits near the stem and boring through from the inside out until pupation. *To prevent, apply neem oil or insecticidal soap early in the season to prevent egg laying. Remove affected fruits as soon as they are noticed to prevent further damage.*
-6. **Aphids:** These tiny sucking insects weaken plants, damage foliage and stems, and cause sooty mold. *To prevent, plant resistant tomato varieties and companion plants like marigolds and basil. Wiping aphids off with a damp cloth and dusting the plant with diatomaceous earth are effective countermeasures. Alternatively, use Sevin and Neem oil.*
-7. **Stink Bugs:** These half-inch beetle-looking insects feed on ripening tomato fruits and leave behind a yellowing, necrotic-looking spot. Weedy areas are a huge draw for stink bugs, so keeping weeds down around the garden can help deter them. *Applying kaolin powder to a sprayer and spraying the plants provides a protective barrier against stink bugs. Insecticides can also be used as a last resort.*
-8. **Spider Mites:** These tiny pests are practically impossible to notice until you have a full-blown infestation and serious damage to your crops. They live on the underside of leaves and won't just feed on your tomatoes either. *To prevent, regularly spray plants with water to discourage dust buildup. If an infestation occurs, use a strong blast of water to knock them off the plant. Apply neem oil or insecticidal soap as a control measure.*
+4. **Hornworms:** 
+
+   ![Hornworms can grow over 3 inches long and cause damage to foliage and unripe fruits](/images/uploads/hornworms-tomato.jpeg "Hornworms can grow over 3 inches long and cause damage to foliage and unripe fruits")
+
+   These caterpillars can grow over 3 inches long and cause damage to foliage and unripe fruits. They appear near mid-summer after moths lay eggs on the underside of leaves. *Physical removal by hand is the easiest control method. Use a biological control like Bacillus thuringiensis (BT) or spinosad, which are toxic to the caterpillar but safe for humans and other beneficial insects.*
+5. **Fruit-worm Larva:**
+
+   ![Fruit-worm larva cause extensive damage and rot by entering green fruits like tomato](/images/uploads/tomato-fruitworm-larva.jpeg "Fruit-worm larva cause extensive damage and rot by entering green fruits like tomato")
+
+   These pests cause extensive damage and rot by entering green fruits near the stem and boring through from the inside out until pupation. *To prevent, apply neem oil or insecticidal soap early in the season to prevent egg laying. Remove affected fruits as soon as they are noticed to prevent further damage.*
+6. **Aphids:** 
+
+   ![Tomato aphids are sucking insects](/images/uploads/tomato-aphids.jpeg "Tomato aphids are sucking insects")
+
+   These tiny sucking insects weaken plants, damage foliage and stems, and cause sooty mold. *To prevent, plant resistant tomato varieties and companion plants like marigolds and basil. Wiping aphids off with a damp cloth and dusting the plant with diatomaceous earth are effective countermeasures. Alternatively, use Sevin and Neem oil.*
+7. **Stink Bugs:** 
+
+   ![Stink Bugs are half-inch beetle-looking insects feed on ripening tomato fruits](/images/uploads/stink-bug.jpeg "Stink Bugs are half-inch beetle-looking insects feed on ripening tomato fruits")
+
+   These half-inch beetle-looking insects feed on ripening tomato fruits and leave behind a yellowing, necrotic-looking spot. Weedy areas are a huge draw for stink bugs, so keeping weeds down around the garden can help deter them. *Applying kaolin powder to a sprayer and spraying the plants provides a protective barrier against stink bugs. Insecticides can also be used as a last resort.*
+8. **Spider Mites:** 
+
+   ![Spider mites are practically impossible to notice until you have a full-blown infestation](/images/uploads/tomato-spider-mites.jpeg "Spider mites are practically impossible to notice until you have a full-blown infestation")
+
+   These tiny pests are practically impossible to notice until you have a full-blown infestation and serious damage to your crops. They live on the underside of leaves and won't just feed on your tomatoes either. *To prevent, regularly spray plants with water to discourage dust buildup. If an infestation occurs, use a strong blast of water to knock them off the plant. Apply neem oil or insecticidal soap as a control measure.*
 
 ## T﻿ips for Preventing Tomato Diseases
 
