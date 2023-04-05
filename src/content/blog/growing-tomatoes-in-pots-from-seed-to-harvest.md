@@ -42,7 +42,7 @@ Cherry tomato plants can become heavy with small tomatoes, and a central stake u
 
 ### Step 5: Water
 
-Watering adequately is the key to a healthy harvest. Growing tomatoes in pots requires more frequent watering. It is best to water vegetables in the morning, allowing the sun to dry off the leaves as the day heats up. Watering in the evening can leave the leaves wet for longer, making them more susceptible to fungus and other diseases. If this is your first time gardening in containers, I recommend setting a daily reminder on your phone for the same time each morning. Missing even one day of watering can quickly dry out your plant and potentially damage your tomatoes.
+Watering adequately is the key to a healthy [tomato harvest](https://urbangardener.wiki/posts/tips-for-harvesting-and-storing-your-tomato-crop/). Growing tomatoes in pots requires more frequent watering. It is best to water vegetables in the morning, allowing the sun to dry off the leaves as the day heats up. Watering in the evening can leave the leaves wet for longer, making them more susceptible to fungus and other diseases. If this is your first time gardening in containers, I recommend setting a daily reminder on your phone for the same time each morning. Missing even one day of watering can quickly dry out your plant and potentially damage your tomatoes. tomato 
 
 ### S﻿tep 6: Care
 
@@ -64,8 +64,6 @@ Growing tomatoes in pots can be a great way to enjoy fresh produce at home. Howe
   ![Choose a spot that gets plenty of sunshine for your tomato plants](/images/uploads/tomato-in-pot-balcony.jpg "Choose a spot that gets plenty of sunshine for your tomato plants")
 * **Keep plants close to water:** Potted tomato plants require a steady amount of water. Therefore, it's best to locate your planters close to a water supply or at least close enough to reach with a hose. Please note that tap water often contains chlorine, which can be harmful to plants. If you're using tap water, it's best to let it sit out for a day or two before using it to water your plants to allow the chlorine to dissipate. With containers, you'll need to water more frequently than an in-ground garden, so set things up to make this daily chore a bit easier to do.
 * **Watch for pests and diseases:** Keep an eye out for common tomato pests like aphids, spider mites, and whiteflies, and treat them promptly if you see any signs of infestation. You should also be on the lookout for diseases like blight, which can cause the plant to wilt and die. *Check out [tomato plant disease treat guide](https://urbangardener.wiki/posts/common-tomato-plant-diseases-symptoms-prevention-and-treatment-tips/)*
-
-![Tomato plant in pot ready to harvest](/images/uploads/tomato-in-pot-balcony.jpg "Tomato plant in pot ready to harvest")
 
 > **How Long Do Tomatoes Take to Grow?**
 >
