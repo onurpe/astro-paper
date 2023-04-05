@@ -12,9 +12,9 @@ Tomatoes are vulnerable to a wide range of pests and diseases, making it crucial
 
 ## Table of contents
 
-## Pests and Diseases Affecting Tomato Plants
+## Tomato Plants Diseases and Pests (With Pictures)
 
-Here are some common issues and tips for prevention and treatment for your tomato plants:
+Here are common tomato plant diseases with pictures and tips for prevention and treatment for your tomato plants: 
 
 1. **Late Blight:** 
 
