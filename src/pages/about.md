@@ -13,4 +13,4 @@ Our website is dedicated to helping urban dwellers turn their balconies, rooftop
 
 Whether you're a seasoned gardener or just starting out, our website has something for everyone. From selecting the right plants to caring for them, we've got you covered. We also cover a variety of topics, including composting, container gardening, vertical gardening, and much more.
 
-So, whether you're looking to <a href"https://urbangardener.wiki/posts/balcony-gardening-ideas-w-plant--planter-tips/">create a beautiful balcony garden</a> or turn your urban space into a green oasis, urbangardener.wiki is the perfect place to start. Thank you for visiting us, and we hope you enjoy exploring our site!
+So, whether you're looking to <a href="https://urbangardener.wiki/posts/balcony-gardening-ideas-w-plant--planter-tips/">create a beautiful balcony garden</a> or turn your urban space into a green oasis, urbangardener.wiki is the perfect place to start. Thank you for visiting us, and we hope you enjoy exploring our site!
