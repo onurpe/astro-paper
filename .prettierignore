@@ -4,6 +4,7 @@ public/robots.txt
 public/assets
 public/favicon.svg
 public/_redirects
+public/urbangardener-og.jpg
 # Except these files & folders
 !/src
 !/public
