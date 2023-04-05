@@ -65,16 +65,8 @@ Growing tomatoes in pots can be a great way to enjoy fresh produce at home. Howe
 * **Keep plants close to water:** Potted tomato plants require a steady amount of water. Therefore, it's best to locate your planters close to a water supply or at least close enough to reach with a hose. Please note that tap water often contains chlorine, which can be harmful to plants. If you're using tap water, it's best to let it sit out for a day or two before using it to water your plants to allow the chlorine to dissipate. With containers, you'll need to water more frequently than an in-ground garden, so set things up to make this daily chore a bit easier to do.
 * **Watch for pests and diseases:** Keep an eye out for common tomato pests like aphids, spider mites, and whiteflies, and treat them promptly if you see any signs of infestation. You should also be on the lookout for diseases like blight, which can cause the plant to wilt and die. *Check out [tomato plant disease treat guide](https://urbangardener.wiki/posts/common-tomato-plant-diseases-symptoms-prevention-and-treatment-tips/)*
 
-## How Long Do Tomatoes Take to Grow?
-
-Tomatoes generally take about 75 to 90 days to mature and produce fruit after they have been transplanted into a container. However, the actual length of time it takes for tomatoes to grow in containers can vary depending on several factors, including the variety of tomato, the size of the container, and the growing conditions.
-
 ![Tomato plant in pot ready to harvest](/images/uploads/tomato-in-pot-balcony.jpg "Tomato plant in pot ready to harvest")
 
-Compact or dwarf varieties such as cherry or patio tomatoes may produce fruit earlier than larger varieties, and smaller containers may limit the growth rate of the plant, which can result in slower fruit development.
-
-Additionally, the amount of sunlight, water, and nutrients the tomato plants receive can also affect their growth rate and the time it takes for them to produce fruit.
-
-With proper care and optimal growing conditions, tomatoes grown in containers can produce ripe fruit in as little as 60 to 70 days. However, it's important to keep in mind that tomato plants are sensitive to changes in their environment, and their growth rate can be impacted by unexpected weather conditions, pests, or diseases.
-
-While the exact time it takes for tomatoes to grow and produce fruit in containers can vary, most varieties will take around 75 to 90 days from transplanting to harvest.
+> **How Long Do Tomatoes Take to Grow?**
+>
+> Tomatoes generally take about 75 to 90 days to mature and produce fruit after they have been transplanted into a container. However, the actual length of time it takes for tomatoes to grow in containers can vary depending on several factors, including the variety of tomato, the size of the container, and the growing conditions.
