@@ -12,8 +12,6 @@ Tomatoes are vulnerable to a wide range of pests and diseases, making it crucial
 
 ## Table of contents
 
-![Common diseases for tomato plants and prevention tips](/images/uploads/growing-tomato-indoors-1-.jpg "Common diseases for tomato plants and prevention tips")
-
 ## Pests and Diseases Affecting Tomato Plants
 
 Here are some common issues and tips for prevention and treatment for your tomato plants:
@@ -21,15 +19,17 @@ Here are some common issues and tips for prevention and treatment for your tomat
 1. **Late Blight:** \
    ![](https://aggie-horticulture.tamu.edu/wp-content/uploads/sites/10/2012/01/late_blight.jpg)\
    This fungal disease can cause grey mold on fruits and stems, which then turns brown. It overwinters in soil and can infect the next crop. *To prevent, avoid planting tomatoes in the same area for two consecutive years. Apply fungicides like copper-based products early in the season as a preventative measure. In case of infection, remove the affected plants and dispose of them away from the garden.*
-2. **Mosaic Virus:** This disease causes stunted early development of stems, twisting and distortion, and mottled yellow foliage. Infected plants should be removed and thrown away in the trash. *To prevent, purchase disease-resistant varieties of tomato plants and keep them isolated from other susceptible plants. Also, avoid smoking near plants, as tobacco smoke can spread the virus.*
-3. **Whitefly:** This sucking insect causes chlorotic spots, leaf wilting, and the spread of disease to foliage. Infestations should be treated immediately to prevent plant weakening. *To prevent, use sticky traps and reflective mulch to deter them. Neem oil and insecticidal soap can also help control the population.*
+2. **Mosaic Virus:**\
+   ![](https://aggie-horticulture.tamu.edu/wp-content/uploads/sites/10/2012/01/mosaic1.jpg)\
+   This disease causes stunted early development of stems, twisting and distortion, and mottled yellow foliage. *Infected plants should be removed and thrown away in the trash. To prevent, purchase disease-resistant varieties of tomato plants and keep them isolated from other susceptible plants. Also, avoid smoking near plants, as tobacco smoke can spread the virus.*
+3. **Whitefly:**\
+   ![](https://aggie-horticulture.tamu.edu/wp-content/uploads/sites/10/2012/01/whitefly2.jpg)\
+   This sucking insect causes chlorotic spots, leaf wilting, and the spread of disease to foliage. *Infestations should be treated immediately to prevent plant weakening. To prevent, use sticky traps and reflective mulch to deter them. Neem oil and insecticidal soap can also help control the population.*
 4. **Hornworms:** These caterpillars can grow over 3 inches long and cause damage to foliage and unripe fruits. They appear near mid-summer after moths lay eggs on the underside of leaves. *Physical removal by hand is the easiest control method. Use a biological control like Bacillus thuringiensis (BT) or spinosad, which are toxic to the caterpillar but safe for humans and other beneficial insects.*
 5. **Fruit-worm Larva:** These pests cause extensive damage and rot by entering green fruits near the stem and boring through from the inside out until pupation. *To prevent, apply neem oil or insecticidal soap early in the season to prevent egg laying. Remove affected fruits as soon as they are noticed to prevent further damage.*
 6. **Aphids:** These tiny sucking insects weaken plants, damage foliage and stems, and cause sooty mold. *To prevent, plant resistant tomato varieties and companion plants like marigolds and basil. Wiping aphids off with a damp cloth and dusting the plant with diatomaceous earth are effective countermeasures. Alternatively, use Sevin and Neem oil.*
 7. **Stink Bugs:** These half-inch beetle-looking insects feed on ripening tomato fruits and leave behind a yellowing, necrotic-looking spot. Weedy areas are a huge draw for stink bugs, so keeping weeds down around the garden can help deter them. *Applying kaolin powder to a sprayer and spraying the plants provides a protective barrier against stink bugs. Insecticides can also be used as a last resort.*
 8. **Spider Mites:** These tiny pests are practically impossible to notice until you have a full-blown infestation and serious damage to your crops. They live on the underside of leaves and won't just feed on your tomatoes either. *To prevent, regularly spray plants with water to discourage dust buildup. If an infestation occurs, use a strong blast of water to knock them off the plant. Apply neem oil or insecticidal soap as a control measure.*
-
-![Issues that may arise when growing tomato plants](/images/uploads/tomato-issues-1-.jpg "Issues that may arise when growing tomato plants")
 
 ## T﻿ips for Preventing Tomato Diseases
 
