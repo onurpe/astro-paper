@@ -57,7 +57,7 @@ Here are common tomato plant diseases with pictures and tips for prevention and 
 
    These tiny pests are practically impossible to notice until you have a full-blown infestation and serious damage to your crops. They live on the underside of leaves and won't just feed on your tomatoes either. *To prevent, regularly spray plants with water to discourage dust buildup. If an infestation occurs, use a strong blast of water to knock them off the plant. Apply neem oil or insecticidal soap as a control measure.*
 
-## T﻿ips for Preventing Tomato Diseases
+## Tips for Preventing Tomato Diseases
 
 Tomato diseases can be numerous and difficult to manage. However, taking preventive measures can help keep your tomato plants healthy and disease-free. It all starts with proper planting techniques, such as crop rotation every 1 to 3 years to discourage soil-borne pathogens and providing enough space and support for your plants to allow for proper air circulation.
 
