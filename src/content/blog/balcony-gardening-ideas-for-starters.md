@@ -48,7 +48,7 @@ Container planters are the most common type of planter used for balcony gardenin
 
 ![Container planters for balcony gardening](/images/uploads/choosing-the-right-pot-size-for-plants.jpg)
 
-#### R﻿ecommended plants for container planters:
+#### Recommended plants for container planters:
 
 * Small containers: herbs (basil, parsley, cilantro), small vegetables (cherry tomatoes, lettuce, radishes), succulents
 * Medium containers: [tomatoes](https://urbangardener.wiki/posts/growing-tomatoes-in-pots-from-seed-to-harvest/), peppers, eggplants, beans, strawberries, dwarf fruit trees (citrus, figs)
@@ -60,7 +60,7 @@ Hanging baskets are a popular choice for small balconies or for adding visual in
 
 ![Hanging pot in balcony](/images/uploads/hanging-pot-balcony-gardening.jpg)
 
-#### R﻿ecommended plants for hanging baskets:
+#### Recommended plants for hanging baskets:
 
 * Flowers: petunias, begonias, impatiens, lobelia, fuchsia
 * Herbs: oregano, thyme, parsley, chives, sage
@@ -72,7 +72,7 @@ Window boxes are a type of planter that attaches to the railings of your balcony
 
 ![Window boxes as a balcony planters](/images/uploads/inspirational-planted-french-balcony.jpg)
 
-#### R﻿ecommended plants for window boxes:
+#### Recommended plants for window boxes:
 
 * Flowers: pansies, petunias, snapdragons, geraniums, marigolds
 * Herbs: basil, chives, cilantro, parsley, thyme
@@ -84,7 +84,7 @@ Vertical planters are a type of planter that can be mounted on walls or hung fro
 
 ![Vertical planters for home gardening](/images/uploads/vertical-planters-with-led.jpg)
 
-#### R﻿ecommended plants for vertical planters:
+#### Recommended plants for vertical planters:
 
 * Flowers: petunias, impatiens, geraniums, fuchsia, lobelia
 * Herbs: basil, thyme, chives, mint, rosemary
@@ -96,7 +96,7 @@ Raised garden beds are another option for larger balconies or outdoor spaces. Ad
 
 ![Raised garden beds](/images/uploads/raised-garden-beds-.jpg)
 
-#### R﻿ecommended plants for raised garden beds:
+#### Recommended plants for raised garden beds:
 
 * Vegetables: tomatoes, peppers, eggplants, zucchini, cucumbers
 * Herbs: basil, parsley, cilantro, chives, thyme
