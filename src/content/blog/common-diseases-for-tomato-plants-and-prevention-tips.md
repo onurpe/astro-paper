@@ -75,4 +75,4 @@ To avoid making your plants a target for diseases, follow these rules:
 
 By following these rules, you can greatly reduce the risk of your tomato plants being affected by diseases. If you do notice any signs of disease, it's important to act quickly to prevent it from spreading. There are a variety of treatments available, including fungicides and insecticides, but it's best to consult with a gardening professional for advice on the most effective treatment for your specific situation.
 
-> *T﻿his article is a part of '[growing tomatoes in pots](https://urbangardener.wiki/posts/growing-tomatoes-in-pots-from-seed-to-harvest/)' serie. Check the main article or the tags below for more related content.*
+> *This article is a part of '[growing tomatoes in pots](https://urbangardener.wiki/posts/growing-tomatoes-in-pots-from-seed-to-harvest/)' serie. Check the main article or the tags below for more related content.*
