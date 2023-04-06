@@ -67,4 +67,4 @@ Growing tomatoes in pots can be a great way to enjoy fresh produce at home. Howe
 
 > **How Long Do Tomatoes Take to Grow?**
 >
-> Tomatoes generally take about 75 to 90 days to mature and produce fruit after they have been transplanted into a container. However, the actual length of time it takes for tomatoes to grow in containers can vary depending on several factors, including the variety of tomato, the size of the container, and the growing conditions.
+> Tomatoes generally take about 75 to 90 days to mature and produce fruit after they have been transplanted into a container. However, the actual length of time it takes for tomatoes to grow in containers can vary depending on several factors, including the variety of tomato, the size of the container, and the growing conditions. If your tomatoes are grown, then check out [tomato harvest & storage tips](https://urbangardener.wiki/posts/tips-for-harvesting-and-storing-your-tomato-crop/).
