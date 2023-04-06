@@ -44,7 +44,7 @@ Cherry tomato plants can become heavy with small tomatoes, and a central stake u
 
 Watering adequately is the key to a healthy [tomato harvest](https://urbangardener.wiki/posts/tips-for-harvesting-and-storing-your-tomato-crop/). Growing tomatoes in pots requires more frequent watering. It is best to water vegetables in the morning, allowing the sun to dry off the leaves as the day heats up. Watering in the evening can leave the leaves wet for longer, making them more susceptible to fungus and other diseases. If this is your first time gardening in containers, I recommend setting a daily reminder on your phone for the same time each morning. Missing even one day of watering can quickly dry out your plant and potentially damage your tomatoes. tomato 
 
-### S﻿tep 6: Care
+### Step 6: Care
 
 When transplanting your tomato seedlings, water generously for the initial three days to reduce root shock. Water your plants every other day during the growing season, and water deep to create a robust root system. Water your plants in the early morning to reduce evaporation and avoid watering in the late afternoon or evening as it will dry out the plants during the day. After five weeks, apply a layer of mulch to give the plant extra nutrients. Remove all the weeds from the garden to enhance growth.
 
