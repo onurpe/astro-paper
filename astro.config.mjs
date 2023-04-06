@@ -16,7 +16,9 @@ export default defineConfig({
       },
     }),
     react(),
-    sitemap(),
+    sitemap({
+      filter: page => page !== "https://urbangardener.wiki/posts/1/",
+    }),
   ],
   markdown: {
     remarkPlugins: [
