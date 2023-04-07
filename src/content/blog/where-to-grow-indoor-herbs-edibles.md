@@ -13,7 +13,7 @@ Welcome to the world of indoor gardening! When you think of gardening, you might
 
 With indoor gardening, you can increase your annual crop yields and even try growing new fruits and vegetables that may not thrive in an outdoor environment. And the best part? It's easy and low-cost to get started, takes up very little space, and requires minimal daily care.
 
-If you're new to gardening, don't worry! We will help you to plan your indoor garden for herbs and edibles in this guide. Regardless of the size of your home, you can cultivate a variety of edible plants indoors as long as there is some access to natural light. You can create growing zones in areas such as windowsills, under a skylight, or in well-lit rooms. If you have a dark area, you can still grow edibles by installing grow lights. 
+If you're new to gardening, don't worry! We will help you to plan your indoor garden to grow herbs and edibles in this guide. Regardless of the size of your home, you can cultivate a variety of edible plants indoors as long as there is some access to natural light. You can create growing zones in areas such as windowsills, under a skylight, or in well-lit rooms. If you have a dark area, you can still grow edibles by installing grow lights. So what are you waiting for? Let's start to plan your indoor garden!
 
 ## Table of contents
 
