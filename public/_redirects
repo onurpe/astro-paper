@@ -14,3 +14,4 @@
 # /pass-through /index.html    200
 
 /posts/1/               /posts/ 301!
+/tags/balcony-gardening-essentials/               /tags/home-gardening-essentials/  301
