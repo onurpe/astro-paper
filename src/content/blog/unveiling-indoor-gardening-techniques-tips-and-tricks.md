@@ -4,35 +4,25 @@ description: Indoor gardening offers more flexibility than traditional outdoor
   gardening methods. It is easy to use and can increase your chances of success
   the first time you try it.
 pubDatetime: 2023-04-07T17:06:00.973Z
+featured: false
 draft: true
 ---
 Indoor gardening offers more flexibility than traditional outdoor gardening methods. It is easy to use and can increase your chances of success the first time you try it. Here are some popular indoor gardening techniques that you can try:
-*Container Gardening
-Container gardening is the most straightforward way to begin gardening
-indoors. It is affordable, and you can use almost any container available
-at home. Milk jugs, plastic soda bottles, mason jars, and baskets with a
-plastic liner can all be repurposed as containers. There are also many
-commercially available options, such as window sill planter boxes and
-ceramic containers. If you want to create your own container, it is best to
-use rot-resistant wood such as redwood or cedar. They are a healthier
-alternative to treated wood that can leak chemicals into your soil and crop.*
-Herb Gardening
-Growing herbs indoors is an excellent variation of container gardening. Herbs
-are hardy, take up little space, and are versatile. They can be used as culinary
-tools, natural supplements, and even insect repellent. Herbs thrive in areas
-with at least five hours of sunlight per day, such as windowsills.
-*Vertical Gardening Hacks
-Vertical gardening can help you grow a year's worth of food in a limited space.
-In this book, you will learn how to build a vertical gardening system. While
-it may not be ideal for growing all crops, it is perfect for some and takes up
-minimal space. Chapter Seven describes the design you can use to create
-your own vertical garden.*
-Hydroponics
-Hydroponics is a popular indoor gardening technique that involves replacing
-soil with a nutrient-rich water solution. Plants grown using hydroponics often
-yield a higher-quality crop. However, purchasing the equipment to set up a
-hydroponic garden can be costly. In Chapter Seven, you will learn how to
-build an affordable hydroponic system using materials from your local
-hardware store.
-Using a combination of these techniques is the best way to consistently
-grow high-quality crops in any indoor space.
+
+## Container Gardening
+
+Starting an indoor garden with container gardening is the simplest and most affordable method. You can repurpose many containers you have lying around your house such as milk jugs, plastic soda bottles, baskets with a plastic liner, and mason jars. Alternatively, commercially available options such as window sill planter boxes and ceramic containers are also great choices. However, if you want to create your container, use rot-resistant wood like redwood or cedar to avoid using treated wood that can potentially harm your crop and soil.
+
+## Herb Gardening
+
+Growing herbs indoors is an excellent way to introduce yourself to container gardening. Herbs are hardy, require very little space, and are versatile. You can use them as natural supplements, culinary tools, and even as insect repellents. Place your herb garden in an area with at least five hours of sunlight per day, such as on a windowsill.
+
+## Vertical Gardening
+
+You can grow a year's worth of food in a limited space with vertical gardening. In this book, you will learn how to build a vertical gardening system that is perfect for some crops and takes up minimal space. Chapter Seven describes the design you can use to create your own vertical garden.
+
+## Hydroponics
+
+Hydroponics is a popular indoor gardening technique that uses nutrient-rich water instead of soil to grow plants. This method often yields a higher-quality crop, but purchasing the equipment can be costly. In Chapter Seven, you will learn how to build an affordable hydroponic system using materials from your local hardware store.
+
+Combining these methods is the best way to consistently grow high-quality crops in any indoor space.
