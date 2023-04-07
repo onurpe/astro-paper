@@ -4,6 +4,7 @@ description: Where To Grow Indoor Herbs & Edibles
 pubDatetime: 2023-04-07T07:31:30.704Z
 ogImage: /images/uploads/bright-sunlit-zones-for-indoor-gardening-1-.jpg
 tags:
+  - home-gardening-essentials
   - indoor-gardening
 draft: false
 ---
