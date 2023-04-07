@@ -6,6 +6,7 @@ description: Learn the top 10 indoor gardening tips and tricks for successful
 pubDatetime: 2023-04-07T13:03:59.954Z
 tags:
   - home-gardening-essentials
+  - indoor-gardening
 ---
 ## Indoor gardening is a great way to grow your own fruits, vegetables, and herbs in the comfort of your own home. To help you get the most out of your indoor garden, we’ve put together a list of 10 tips and tricks that are sure to help you succeed.
 
