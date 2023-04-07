@@ -13,8 +13,8 @@ export const SITE: Site = {
 export const LOGO_IMAGE = {
   enable: true,
   svg: false,
-  width: 125,
-  height: 87,
+  width: 100,
+  height: 70,
 };
 
 export const SOCIALS: SocialObjects = [
