@@ -1,5 +1,6 @@
 ---
 title: "Optimal Soil for Tomato Plants: Tips on Maintaining Soil Health"
+postSlug: ""
 description: Here are some steps for choosing, creating and fertilizing ideal
   soil for tomato plants.
 pubDatetime: 2023-04-03T22:19:35.438Z
