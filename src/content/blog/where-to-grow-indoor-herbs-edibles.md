@@ -1,5 +1,6 @@
 ---
-title: Where To Grow Indoor Herbs & Edibles
+title: "Planning an Indoor Garden: Where to Grow Indoor Herbs & Edibles?"
+postSlug: planning-indoor-garden
 description: Where To Grow Indoor Herbs & Edibles
 pubDatetime: 2023-04-07T07:31:30.704Z
 ogImage: /images/uploads/bright-sunlit-zones-for-indoor-gardening-1-.jpg
@@ -8,7 +9,11 @@ tags:
   - indoor-gardening
 draft: false
 ---
-Regardless of the size of your home, you can cultivate a variety of edible plants indoors as long as there is some access to natural light. You can create growing zones in areas such as windowsills, under a skylight, or in well-lit rooms. If you have a dark area, you can still grow edibles by installing grow lights.
+Welcome to the world of indoor gardening! When you think of gardening, you might picture a large outdoor space with fences and rows of produce. But did you know that growing food indoors is not just for apartment dwellers? In fact, it can extend your growing season by months and can be cultivated year-round.
+
+With indoor gardening, you can increase your annual crop yields and even try growing new fruits and vegetables that may not thrive in an outdoor environment. And the best part? It's easy and low-cost to get started, takes up very little space, and requires minimal daily care.
+
+If you're new to gardening, don't worry! We will help you to plan your indoor garden for herbs and edibles in this guide. Regardless of the size of your home, you can cultivate a variety of edible plants indoors as long as there is some access to natural light. You can create growing zones in areas such as windowsills, under a skylight, or in well-lit rooms. If you have a dark area, you can still grow edibles by installing grow lights. 
 
 ## Table of contents
 
