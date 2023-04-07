@@ -1,9 +1,16 @@
 ---
-title: HERB
+title: "## HERB"
 description: HERB
 pubDatetime: 2023-04-07T18:39:18.834Z
+draft: true
 ---
 A herb pot is a highly rewarding project for any kitchen gardener. You can fill it to the brim with your favorite herbs like cilantro, sage, or a medley of mints. The possibilities for herb combinations are endless. You could even create a "pasta sauce herb garden" with a mix of thyme, oregano, and basil. The best part about these herbs is that they thrive with frequent harvesting, making them perfect for a kitchen garden. With a simple snip, you can add fresh flavors to any dish.
+
+In this guide, we will focus on growing herbs from seed to harvest entirely indoors, but the same principles can be applied to transplants and cuttings. Pay attention to critical factors such as soil drainage, temperature, and humidity to ensure that your indoor herb garden thrives.
+
+## T﻿able of contents
+
+## G﻿rowing Herbs Indoor
 
 When it comes to planting herbs in a kitchen space, it's best to place them in separate pots. This allows you to isolate them in case of insect issues or mold problems. However, for gifting purposes, combining different herbs can create unique blends with delightful aromas that blend together beautifully.
 
@@ -11,9 +18,7 @@ Incorporating herb pots into your kitchen will give you access to fresh herbs at
 
 Many herbs are ideal for indoor growing and can be transplanted from outdoor gardens to extend the growing season during colder months. Rosemary, oregano, thyme, and sage are herbs that propagate well when cut from an existing plant and prepared for indoor growth. To propagate them, cut a 4-inch section from the stem or leaf and strip off an inch of the lower leaves. Place the stem in vermiculite potting mix and maintain moisture while the plant establishes itself. Cover the stem with clear plastic or glass to keep the humidity high and let in some light but avoid direct sunlight to prevent overheating. Occasionally remove the cover or place the plant in a transitional area for ventilation. This technique is also useful for transplants bought from a greenhouse, as they are already acclimatized to temperature changes.
 
-For some herbs, like basil, growing from seed can be challenging, and using transplants can be a helpful shortcut. When starting your indoor garden, consider selecting herbs that are best suited to your kitchen space.
-
-In this section, we will focus on growing herbs from seed to harvest entirely indoors, but the same principles can be applied to transplants and cuttings. Pay attention to critical factors such as soil drainage, temperature, and humidity to ensure that your indoor herb garden thrives.
+For some herbs, like basil, growing from seed can be challenging, and using transplants can be a helpful shortcut. When starting your indoor garden, consider [selecting herbs that are best suited to your kitchen space](https://urbangardener.wiki/posts/planning-indoor-garden/).
 
 While many herbs can flourish in indoor gardens, some varieties can be challenging to grow from seed. Here are some options categorized by difficulty level that are suitable for indoor cultivation.
 
@@ -66,23 +71,11 @@ Prepare your container and soil mix. Make sure to give the mix some water to kee
 
 ## Troubleshooting Your Herbs: Common Issues and Solutions
 
-Are your herbs not growing as fast as you'd like, or are they suffering from brown patches, withered leaves, whitish fuzz on the soil, soft stems, or bug infestations? Don't worry, these are common problems and can be easily solved!
+Are your herbs not growing as fast as you'd like, or are they suffering from brown patches, withered leaves, whitish fuzz on the soil, soft stems, or bug infestations? Don't worry, these are common problems and can be easily solved! CHECK OUR GUIDE
 
-* Slow Growth or Limited Germination
+## This is a great guide on harvesting and preserving herbs! Here are some key takeaways:
 
-Insufficient light may be the issue. Herbs require at least five hours of light daily to thrive, and full sunshine is best if the area isn't too hot. However, in winter, even a south-facing window might not provide enough light. If you notice slow growth, try increasing the hours of light up to fourteen if necessary.
-* Brown Patches or Withered-Looking Leaves
-
-If your herbs are located under a light source, they may be too close to the bulb and are getting burned. Herbs should be placed at least 6 to 8 inches away from the light source, and the distance should be measured from the bulb to the top of the plant.
-
-* Whitish Fuzz on Soil
-
-The whitish fuzz on the soil could be due to natural seed germination, but it may also be mold. Check if you're overwatering your plants by feeling the soil mix. If you feel moisture immediately upon inserting your finger into the soil, then overwatering may be the issue. Let the plant "dry out" and isolate it from other plants in the meantime. Remove the moldy areas, but be aware that you may need to start over with this plant.
-
-* Stems Seem Soft or Mushy
-
-Another possibility of soft stems is overwatering, which can lead to root rot. A foul smell mixed with the pleasant herb scent is a clear indication of problems.
-
-* Bug Infestation in Progress
-
-It's disappointing to discover that your herbs are being eaten by bugs. If this happens, isolate the plant and try a soap spray made with mild liquid soap (like Dr. Bronner's) and water. Spray in the evening when the plant isn't in full sunlight, as applying the spray when the plant is exposed to sunlight can cause it to dry out.
+* When harvesting herbs, go for the "older" leaves that are full and avoid clipping near new growth. If the plant begins to flower, snap off the flowering part to prolong the herb's lifespan.
+* Stems of herbs tend to have abundant flavor as well, so don't be afraid to use them in your dishes.
+* There are many ways to preserve herbs for months, including drying, preserving in olive oil, and covering completely with honey. Each method imparts a unique flavor to the herbs.
+* Freshly harvested herbs can make a huge difference in the flavors of your dishes. Consider growing your own kitchen garden to enjoy fresh herbs year-round.
