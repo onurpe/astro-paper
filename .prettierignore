@@ -6,6 +6,7 @@ public/favicon.svg
 public/_redirects
 public/urbangardener-og.jpg
 public/images/*
+src/components/BlogPostingJSONLD.astro
 # Except these files & folders
 !/src
 !/public
