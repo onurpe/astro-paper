@@ -6,7 +6,7 @@ pubDatetime: 2023-04-03T22:17:00.587Z
 featured: true
 ogImage: /images/uploads/pruning-shear-1-.jpg
 tags:
-  - balcony-gardening-essentials
+  - home-gardening-essentials
 ---
 Balcony gardening can be a great way to grow your own plants, even if you don't have access to a large yard or garden. Here are some essential tools you'll need to get started:
 
