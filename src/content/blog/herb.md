@@ -46,36 +46,36 @@ While many herbs can flourish in indoor gardens, some varieties can be challengi
 
 Soil preparation is crucial for growing herbs as they require proper drainage to avoid root rot. While using a pot with holes in the bottom is a good start, it may not be enough to ensure proper drainage. Using a standard pot with a dish that catches water can lead to the herb sitting in water, which is not ideal for the plant.
 
-To increase drainage, gardeners may use a cactus-growing system or mix sand and vermiculite in a 1:4 parts ratio to create a happy blend. When transplanting from outside, it's essential to remove as much garden soil as possible by gently shaking or tapping the roots to reduce exposure to pests and diseases.
+To increase drainage, gardeners may **use a cactus-growing system or mix sand and vermiculite in a 1:4 parts ratio to create a happy blend**. When transplanting from outside, it's essential to remove as much garden soil as possible by gently shaking or tapping the roots to **reduce exposure to pests and diseases.**
 
-To prevent soil compaction, it's advisable to cultivate within the pot every month or so. One can use a fork to gently loosen the soil within the container, taking care to stay mostly on the periphery to avoid damaging the roots.
+To prevent soil compaction, it's advisable to **cultivate within the pot every month** or so. One can use a fork to gently loosen the soil within the container, taking care to stay mostly on the periphery to avoid damaging the roots.
 
 ## Choosing The P﻿ots and Containers
 
-Drainage is essential for herb growth, and it is crucial to choose a container that allows for ample flow. Any material works for containers, but terra cotta pots are not recommended as they make the herbs dry out faster, making it challenging to estimate their watering needs. While any container works, smaller pots are preferred to save space. However, if the herbs start to spread over the edges or need more space, repotting them into a larger container is necessary. Even if you choose to grow herbs in a unique container, it is essential to drill some holes and add pebbles to ensure proper drainage.
+**Drainage is essential for herb growth**, and it is crucial to choose a container that allows for ample flow. Any material works for containers, but terra cotta pots are not recommended as they make the herbs dry out faster, making it challenging to estimate their watering needs. While any container works, smaller pots are preferred to save space. However, **if the herbs start to spread over the edges or need more space, repotting them into a larger container is necessary.** Even if you choose to grow herbs in a unique container, it is essential to **drill some holes and add pebbles** to ensure proper drainage.
 
-## Planting and Care Tips for Your Herbs
+## Planting and Caring Herbs
 
-* First Steps for Planting:
+* ### **First Steps for Planting:**
 
 Prepare your container and soil mix. Make sure to give the mix some water to keep your seeds from shifting when you water them for the first time. Sow your seeds about one to three times deeper than their size. If the seeds are small, press them barely into the soil and sprinkle some vermiculite on top. For larger seeds, press about half an inch and then cover them. Water the seeds lightly and cover the container with plastic wrap to keep the soil mix and seeds warm and encourage germination. Place the container in a sunny area or under a light, and remove the plastic wrap when the seedlings emerge.
 
-* Maintaining Growth Tips:
+* ### **Maintaining Growth Tips:**
 
-  While some herbs require specialized care, most can benefit from these tips for keeping them strong and healthy:
+While some herbs require specialized care, most can benefit from these tips for keeping them strong and healthy:
 
-  * Fertilize your herbs every 10 days with diluted fish fertilizer found at any garden store. If you don't have fish fertilizer, you can soak seaweed in hot water for a few hours, let it cool, and then spray it on the plants as an "in a pinch" tactic.
-  * Herbs like humidity, but it can be challenging to maintain this condition, especially in the winter. To create a humid environment, fill a tray with small rocks or pebbles and water, leaving about ¼ inch of the top dry. Place your pots on top of the trays, making sure they don't touch the water, and let the evaporation process help to keep the air at a good humidity level.
-  * Give your herbs a regular "bath" by misting them every few days. This will help to keep them hydrated and cut down on insect issues since weakened plants are more susceptible to pests like aphids and spider mites.
-  * Water your herbs from the base, not the leaves. This will help the plants to get hydrated without flattening out from too much water hitting the leaves.
+* **Fertilize your herbs** every 10 days with diluted fish fertilizer found at any garden store. If you don't have fish fertilizer, you can soak seaweed in hot water for a few hours, let it cool, and then spray it on the plants as an "in a pinch" tactic.
+* **Herbs like humidity**, but it can be challenging to maintain this condition, especially in the winter. To create a humid environment, fill a tray with small rocks or pebbles and water, leaving about ¼ inch of the top dry. Place your pots on top of the trays, making sure they don't touch the water, and let the evaporation process help to keep the air at a good humidity level.
+* **Give your herbs a regular "bath" by misting them every few days.** This will help to keep them hydrated and cut down on insect issues since weakened plants are more susceptible to pests like aphids and spider mites.
+* **Water your herbs from the base, not the leaves.** This will help the plants to get hydrated without flattening out from too much water hitting the leaves.
 
 ## Troubleshooting Your Herbs: Common Issues and Solutions
 
 Are your herbs not growing as fast as you'd like, or are they suffering from brown patches, withered leaves, whitish fuzz on the soil, soft stems, or bug infestations? Don't worry, these are common problems and can be easily solved! CHECK OUR GUIDE
 
-## This is a great guide on harvesting and preserving herbs! Here are some key takeaways:
+## Harvesting and Preserving Herbs
 
-* When harvesting herbs, go for the "older" leaves that are full and avoid clipping near new growth. If the plant begins to flower, snap off the flowering part to prolong the herb's lifespan.
-* Stems of herbs tend to have abundant flavor as well, so don't be afraid to use them in your dishes.
-* There are many ways to preserve herbs for months, including drying, preserving in olive oil, and covering completely with honey. Each method imparts a unique flavor to the herbs.
-* Freshly harvested herbs can make a huge difference in the flavors of your dishes. Consider growing your own kitchen garden to enjoy fresh herbs year-round.
+* When harvesting herbs, **go for the "older" leaves** that are full and avoid clipping near new growth. If the plant begins to flower, snap off the flowering part to prolong the herb's lifespan.
+* **Stems of herbs tend to have abundant flavor** as well, so don't be afraid to use them in your dishes.
+* There are many ways to **preserve herbs for months, including drying, preserving in olive oil, and covering completely with honey**. Each method imparts a unique flavor to the herbs.
+* **Freshly harvested herbs can make a huge difference in the flavors of your dishes.** Consider growing your own kitchen garden to enjoy fresh herbs year-round.
