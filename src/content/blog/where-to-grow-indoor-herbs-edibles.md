@@ -3,6 +3,7 @@ title: "Planning an Indoor Garden: Where to Grow Indoor Herbs & Edibles?"
 postSlug: planning-indoor-garden
 description: Where To Grow Indoor Herbs & Edibles
 pubDatetime: 2023-04-07T07:31:30.704Z
+featured: true
 ogImage: /images/uploads/bright-sunlit-zones-for-indoor-gardening-1-.jpg
 tags:
   - home-gardening-essentials
