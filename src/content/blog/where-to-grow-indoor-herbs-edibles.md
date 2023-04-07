@@ -6,6 +6,8 @@ draft: true
 ---
 Regardless of the size of your home, you can cultivate a variety of edible plants indoors as long as there is some access to natural light. You can create growing zones in areas such as windowsills, under a skylight, or in well-lit rooms. If you have a dark area, you can still grow edibles by installing grow lights.
 
+## Table of contents
+
 ## Bright, sunlit zones:
 
 Check your home through the day to locate the brightest, sunniest spots; rooms that receive direct sun for six or more hours a day in summer are best for crops that need good light. These include most fruit plants and herbs, and fruiting vegetable crops such as tomatoes, eggplants, and peppers.
