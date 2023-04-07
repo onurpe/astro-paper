@@ -44,12 +44,7 @@ Check your home through the day to locate the brightest, sunniest spots; rooms t
 
 These areas receive sun for part of the day or even dark corners that barely see any light. You can use mirrors to illuminate gloomy areas and introduce grow lights that imitate the sun, or simply choose crops that thrive in partial shade.
 
-1. Walls: The crops you choose for a wall unit or 
-   shelf depend on which direction your wall 
-   faces and how close it is to natural light. 
-   A south-facing wall can get bright sunshine while a wall facing east or west that receives 
-   just a few hours of sunlight a day and a 
-   north-facing wall offer less scope for crops.
+1. Walls: The crops you choose for a wall unit or shelf depend on which direction your wall faces and how close it is to natural light. A south-facing wall can get bright sunshine while a wall facing east or west that receives just a few hours of sunlight a day and a north-facing wall offer less scope for crops.
 
    Suitable plants:
 
@@ -81,7 +76,7 @@ These areas receive sun for part of the day or even dark corners that barely see
 
 ## Cool zones
 
-Some plants that are normally pollinated by insects are easier to grow on an outside windowsill where bees can still reach them. Other crops that hail from Mediterranean climes or areas with a cool winter need lower temperatures at this time of year to produce their fruits the following summer.\
+Some plants that are normally pollinated by insects are easier to grow on an outside windowsill where bees can still reach them. Other crops that hail from Mediterranean climes or areas with a cool winter need lower temperatures at this time of year to produce their fruits the following summer.
 
 1. Cool (unheated) south-facing room: Grow plants such as strawberries, some herbs, and leafy and root vegetables in this zone all year round. Most fruit trees, including figs, citrus, peaches, and nectarines, need lower temperatures in winter to produce fruits the next year.
 
