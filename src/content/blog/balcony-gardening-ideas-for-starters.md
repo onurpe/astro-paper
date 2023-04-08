@@ -21,9 +21,9 @@ If you're new to balcony gardening or looking for some inspiration, this guide w
 
 ## Plan your balcony garden
 
-Planning a balcony garden can be a fun and rewarding activity, but it also involves careful planning, research, and an understanding of your goals and priorities. Here are some steps to help you plan your balcony garden:
+Planning a balcony garden can be a fun and rewarding activity, but it also involves careful planning, research, and an understanding of your goals and priorities. Here are some steps to help you plan your home garden:
 
-* **Determine your goals and priorities:** Before you start allocating your time, it's important to have a clear understanding of your goals and priorities for your balcony garden. Do you want to grow vegetables, herbs, or flowers? Are you more interested in aesthetics or functionality? Understanding your priorities will help you allocate your time more effectively.
+* **Determine your goals and priorities:** Before you start allocating your time, it's important to have a clear understanding of your goals and priorities for your balcony garden. Do you want to [grow herbs](https://urbangardener.wiki/posts/how-to-grow-herbs-indoors/), vegetables, or flowers? Are you more interested in aesthetics or functionality? Understanding your priorities will help you allocate your time more effectively.
 * **Assess your space and resources:** Take a careful look at your balcony space and assess what resources you have available. Consider factors such as the amount of sunlight your balcony receives, the type of soil you have, and the size of your balcony. This will help you determine what plants are best suited for your space and what resources you'll need to acquire.
 
   ![Balcony garden with lots of planters](/images/uploads/balcony-gardening-idea.jpg)
