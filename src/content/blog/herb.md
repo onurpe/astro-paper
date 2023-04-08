@@ -16,7 +16,7 @@ A herb pot is a highly rewarding project for any kitchen gardener. You can fill 
 
 In this guide, we will focus on growing herbs from seed to harvest entirely indoors, but the same principles can be applied to transplants and cuttings. Pay attention to critical factors such as soil drainage, temperature, and humidity to ensure that your indoor herb garden thrives.
 
-## T﻿able of contents
+## Table of contents
 
 ## G﻿rowing Herbs Indoor
 
