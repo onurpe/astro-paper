@@ -24,11 +24,11 @@ When it comes to planting herbs in a kitchen space, it's best to place them in s
 
 Incorporating herb pots into your kitchen will give you access to fresh herbs at your fingertips, adding natural flavors to your dishes.
 
-![indoor herb garden](/images/uploads/indoor-herb-garden.jpg)
+![Indoor herb garden](/images/uploads/indoor-herb-garden.jpg "Indoor herb garden")
 
 Many herbs are ideal for indoor growing and can be transplanted from outdoor gardens to extend the growing season during colder months. Rosemary, oregano, thyme, and sage are herbs that propagate well when cut from an existing plant and prepared for indoor growth. To propagate them, cut a 4-inch section from the stem or leaf and strip off an inch of the lower leaves. Place the stem in vermiculite potting mix and maintain moisture while the plant establishes itself. Cover the stem with clear plastic or glass to keep the humidity high and let in some light but avoid direct sunlight to prevent overheating. Occasionally remove the cover or place the plant in a transitional area for ventilation. This technique is also useful for transplants bought from a greenhouse, as they are already acclimatized to temperature changes.
 
-![Indoor grown herbs with light support](/images/uploads/vertical-planters-with-led.jpg)
+![Indoor grown herbs with light support](/images/uploads/vertical-planters-with-led.jpg "Indoor grown herbs with light support")
 
 For some herbs, like basil, growing from seed can be challenging, and using transplants can be a helpful shortcut. When starting your indoor garden, consider [selecting herbs that are best suited to home space](https://urbangardener.wiki/posts/planning-indoor-garden/).
 
@@ -38,11 +38,11 @@ While many herbs can flourish in indoor gardens, some varieties can be challengi
 
 * **Peppermint and spearmint** are hardy and versatile plants that tend to spread rapidly, so it's essential to stay on top of harvesting them. If you prefer a robust mint flavor without cultivating a large amount, choose peppermint as it boasts a more intense taste.
 
-![Homegrown peppermint herb in a pot in kitchen ](/images/uploads/homegrown-peppermint-herb-1-.jpg)
+![Homegrown peppermint herb in a pot in kitchen ](/images/uploads/homegrown-peppermint-herb-1-.jpg "Homegrown peppermint herb in a pot in kitchen ")
 
 * **Lemongrass** is a unique herb that doesn't require planting from seed. Instead, you can purchase a stalk of lemongrass from a grocery store or farmers' market, trim the top, and submerge the stalk in a few inches of water. The stalk will develop roots independently and produce numerous new shoots that you can harvest.
 
-![Homegrown lemongrass herb in a pot](/images/uploads/indoor-lemongrass-herb.jpeg)
+![Homegrown lemongrass herb in a pot](/images/uploads/indoor-lemongrass-herb.jpeg "Homegrown lemongrass herb in a pot")
 
 * **Vietnamese coriander** is a great option for indoor growing, as it is hardy and relatively easy to care for. Unlike other varieties of coriander, it is considered easier to grow and has just as much flavor. Once established, it can last for months, making it a great addition to any indoor herb garden.
 
@@ -50,11 +50,11 @@ While many herbs can flourish in indoor gardens, some varieties can be challengi
 
 * **Parsley** is a popular herb that is generally easy to grow indoors, although it can have inconsistent germination. The growth of parsley usually starts around two weeks after planting, but it tends to be slower than other herbs.
 
-![indoor grown parsley](/images/uploads/parsley-indoor-grow.jpg)
+![Indoor grown parsley in a pot](/images/uploads/parsley-indoor-grow.jpg "Indoor grown parsley in a pot")
 
 * **Thyme** requires more light, making it ideal to place it alongside oregano or position them next to each other in a south-facing window. Consider using an outside window sill or balcony to grow this versatile herb. Thyme is a hardy plant that can thrive in a range of temperatures, and it's an excellent option for [outdoor container gardening](https://urbangardener.wiki/posts/balcony-gardening-ideas-w-plant--planter-tips/). Just be sure to choose a location that receives plenty of sunlight.
 
-![Homegrown thyme herb in a pot on balcony](/images/uploads/thyme-in-the-flower-pot-on-the-balcony.jpg)
+![Homegrown thyme herb in a pot on balcony](/images/uploads/thyme-in-the-flower-pot-on-the-balcony.jpg "Homegrown thyme herb in a pot on balcony")
 
 * **For oregano**, providing adequate daily light is crucial for its growth. You may need to position the pot under a separate bulb that remains on for a few additional hours compared to other herbs. Ideally, oregano requires around eight hours of light to thrive.
 * **Indoor rosemary** can be easily grown from cuttings or seeds, and choosing a variety that thrives indoors, such as 'Blue Spire,' is important. Rosemary prefers drier soil, so overwatering should be avoided.
@@ -109,4 +109,4 @@ While some herbs require specialized care, most can benefit from these tips for 
 
 ## Troubleshooting Your Herbs: Common Issues and Solutions
 
-Are your herbs not growing as fast as you'd like, or are they suffering from brown patches, withered leaves, whitish fuzz on the soil, soft stems, or bug infestations? Don't worry, these are common problems and can be easily solved! Browse common issues and solutions to keep your indoor herb garden thriving.
+Are your herbs not growing as fast as you'd like, or are they suffering from brown patches, withered leaves, whitish fuzz on the soil, soft stems, or bug infestations? Don't worry, these are common problems and can be easily solved! Browse [common issues and solutions to keep your indoor herb garden thriving](https://urbangardener.wiki/posts/resolving-herb-garden-issues).
