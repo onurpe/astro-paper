@@ -33,6 +33,9 @@ While many herbs can flourish in indoor gardens, some varieties can be challengi
 ## Easy Herbs to Grow
 
 * **Peppermint and spearmint** are hardy and versatile plants that tend to spread rapidly, so it's essential to stay on top of harvesting them. If you prefer a robust mint flavor without cultivating a large amount, choose peppermint as it boasts a more intense taste.
+
+![Homegrown peppermint herb in a pot in kitchen ](/images/uploads/homegrown-peppermint-herb-1-.jpg)
+
 * **Lemongrass** is a unique herb that doesn't require planting from seed. Instead, you can purchase a stalk of lemongrass from a grocery store or farmers' market, trim the top, and submerge the stalk in a few inches of water. The stalk will develop roots independently and produce numerous new shoots that you can harvest.
 * **Vietnamese coriander** is a great option for indoor growing, as it is hardy and relatively easy to care for. Unlike other varieties of coriander, it is considered easier to grow and has just as much flavor. Once established, it can last for months, making it a great addition to any indoor herb garden.
 
@@ -43,6 +46,9 @@ While many herbs can flourish in indoor gardens, some varieties can be challengi
 ![indoor grown parsley](/images/uploads/parsley-indoor-grow.jpg)
 
 * **Thyme** requires more light, making it ideal to place it alongside oregano or position them next to each other in a south-facing window
+
+![Homegrown thyme herb in a pot on balcony](/images/uploads/thyme-in-the-flower-pot-on-the-balcony.jpg)
+
 * **For oregano**, providing adequate daily light is crucial for its growth. You may need to position the pot under a separate bulb that remains on for a few additional hours compared to other herbs. Ideally, oregano requires around eight hours of light to thrive.
 * **Indoor rosemary** can be easily grown from cuttings or seeds, and choosing a variety that thrives indoors, such as 'Blue Spire,' is important. Rosemary prefers drier soil, so overwatering should be avoided.
 * **Chervil** is a fairly uncommon but delicious herb that is related to parsley and has a subtle flavor. It does well in low-light areas, making it a nice choice for kitchen corners and out-of-the-way spots. Keep in mind that it doesn't do well when temperatures begin to rise beyond 70 degrees Fahrenheit (21 degrees Celsius), so it's important to gauge your house's temperature before planting.
@@ -51,6 +57,9 @@ While many herbs can flourish in indoor gardens, some varieties can be challengi
 
 * **Sage:** While starting sage indoors is not too difficult, it's important to be careful not to overwater it, as the plant is prone to death from too much water. Experts recommend waiting up to a year before harvesting, which can be challenging if you have limited kitchen garden space. However, the herb dries well after harvest and can still be a good addition to your indoor garden.
 * **Basil:** Although basil is a staple in cooking, it can be notoriously difficult to grow from seed indoors. For best results, it's recommended to start with a greenhouse plant. Varieties with smaller leaves, such as 'Dark Opal' or Thai basil, tend to work better for indoor gardening.
+
+![Homegrown basil herb](/images/uploads/homegrown-basil-herb-1-.jpg)
+
 * **Cilantro:** While cilantro grows well outdoors, it requires more care when grown indoors. It's important to grow it from seeds or starter plants, as it doesn't transplant well. Additionally, cilantro needs plenty of drainage and more nutrients than other herbs, making it challenging to keep the soil nourished. To help it thrive, fertilize it biweekly and only water when the soil is very dry.
 
 ## Soil Preparation For Indoor Herbs
