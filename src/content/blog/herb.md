@@ -34,7 +34,7 @@ For some herbs, like basil, growing from seed can be challenging, and using tran
 
 While many herbs can flourish in indoor gardens, some varieties can be challenging to grow from seed. Here are some options categorized by difficulty level that are suitable for indoor cultivation.
 
-## Easy Herbs to Grow
+### Easy Herbs to Grow Indoor
 
 * **Peppermint and spearmint** are hardy and versatile plants that tend to spread rapidly, so it's essential to stay on top of harvesting them. If you prefer a robust mint flavor without cultivating a large amount, choose peppermint as it boasts a more intense taste.
 
@@ -46,7 +46,7 @@ While many herbs can flourish in indoor gardens, some varieties can be challengi
 
 * **Vietnamese coriander** is a great option for indoor growing, as it is hardy and relatively easy to care for. Unlike other varieties of coriander, it is considered easier to grow and has just as much flavor. Once established, it can last for months, making it a great addition to any indoor herb garden.
 
-## Moderate Herbs for Your Indoor Garden
+### Moderate Herbs for Your Indoor Garden
 
 * **Parsley** is a popular herb that is generally easy to grow indoors, although it can have inconsistent germination. The growth of parsley usually starts around two weeks after planting, but it tends to be slower than other herbs.
 
@@ -60,7 +60,7 @@ While many herbs can flourish in indoor gardens, some varieties can be challengi
 * **Indoor rosemary** can be easily grown from cuttings or seeds, and choosing a variety that thrives indoors, such as 'Blue Spire,' is important. Rosemary prefers drier soil, so overwatering should be avoided.
 * **Chervil** is a fairly uncommon but delicious herb that is related to parsley and has a subtle flavor. It does well in low-light areas, making it a nice choice for kitchen corners and out-of-the-way spots. Keep in mind that it doesn't do well when temperatures begin to rise beyond 70 degrees Fahrenheit (21 degrees Celsius), so it's important to gauge your house's temperature before planting.
 
-## Challenging Herbs To Grow Indoor
+### Challenging Herbs To Grow Indoor
 
 * **Sage:** While starting sage indoors is not too difficult, it's important to be careful not to overwater it, as the plant is prone to death from too much water. Experts recommend waiting up to a year before harvesting, which can be challenging if you have limited kitchen garden space. However, the herb dries well after harvest and can still be a good addition to your indoor garden.
 * **Basil:** Although basil is a staple in cooking, it can be notoriously difficult to grow from seed indoors. For best results, it's recommended to start with a greenhouse plant. Varieties with smaller leaves, such as 'Dark Opal' or Thai basil, tend to work better for indoor gardening.
@@ -77,7 +77,7 @@ To increase drainage, gardeners may **use a cactus-growing system or mix sand an
 
 To prevent soil compaction, it's advisable to **cultivate within the pot every month** or so. One can use a fork to gently loosen the soil within the container, taking care to stay mostly on the periphery to avoid damaging the roots.
 
-## Choosing The Pots and Containers
+## Choosing Pots and Containers For Herbs
 
 **Drainage is essential for herb growth**, and it is crucial to choose a planter that allows for ample flow. Any material works for containers, but terra cotta pots are not recommended as they make the herbs dry out faster, making it challenging to estimate their watering needs. While any container works, smaller pots are preferred to save space. 
 
