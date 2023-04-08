@@ -28,7 +28,7 @@ Incorporating herb pots into your kitchen will give you access to fresh herbs at
 
 Many herbs are ideal for indoor growing and can be transplanted from outdoor gardens to extend the growing season during colder months. Rosemary, oregano, thyme, and sage are herbs that propagate well when cut from an existing plant and prepared for indoor growth. To propagate them, cut a 4-inch section from the stem or leaf and strip off an inch of the lower leaves. Place the stem in vermiculite potting mix and maintain moisture while the plant establishes itself. Cover the stem with clear plastic or glass to keep the humidity high and let in some light but avoid direct sunlight to prevent overheating. Occasionally remove the cover or place the plant in a transitional area for ventilation. This technique is also useful for transplants bought from a greenhouse, as they are already acclimatized to temperature changes.
 
-![Indoor grown herbs with light support](/images/uploads/vertical-planters-with-led.jpg)
+![Indoor grown herbs with led light support](/images/uploads/vertical-planters-with-led.jpg "Indoor grown herbs with led light support")
 
 For some herbs, like basil, growing from seed can be challenging, and using transplants can be a helpful shortcut. When starting your indoor garden, consider [selecting herbs that are best suited to home space](https://urbangardener.wiki/posts/planning-indoor-garden/).
 
