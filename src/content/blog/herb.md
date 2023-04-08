@@ -22,6 +22,8 @@ When it comes to planting herbs in a kitchen space, it's best to place them in s
 
 Incorporating herb pots into your kitchen will give you access to fresh herbs at your fingertips, adding natural flavors to your dishes.
 
+![indoor herb garden](/images/uploads/indoor-herb-garden.jpg)
+
 Many herbs are ideal for indoor growing and can be transplanted from outdoor gardens to extend the growing season during colder months. Rosemary, oregano, thyme, and sage are herbs that propagate well when cut from an existing plant and prepared for indoor growth. To propagate them, cut a 4-inch section from the stem or leaf and strip off an inch of the lower leaves. Place the stem in vermiculite potting mix and maintain moisture while the plant establishes itself. Cover the stem with clear plastic or glass to keep the humidity high and let in some light but avoid direct sunlight to prevent overheating. Occasionally remove the cover or place the plant in a transitional area for ventilation. This technique is also useful for transplants bought from a greenhouse, as they are already acclimatized to temperature changes.
 
 For some herbs, like basil, growing from seed can be challenging, and using transplants can be a helpful shortcut. When starting your indoor garden, consider [selecting herbs that are best suited to home space](https://urbangardener.wiki/posts/planning-indoor-garden/).
@@ -37,6 +39,9 @@ While many herbs can flourish in indoor gardens, some varieties can be challengi
 ## Moderate Herbs for Your Indoor Garden
 
 * **Parsley** is a popular herb that is generally easy to grow indoors, although it can have inconsistent germination. The growth of parsley usually starts around two weeks after planting, but it tends to be slower than other herbs.
+
+![indoor grown parsley](/images/uploads/parsley-indoor-grow.jpg)
+
 * **Thyme** requires more light, making it ideal to place it alongside oregano or position them next to each other in a south-facing window
 * **For oregano**, providing adequate daily light is crucial for its growth. You may need to position the pot under a separate bulb that remains on for a few additional hours compared to other herbs. Ideally, oregano requires around eight hours of light to thrive.
 * **Indoor rosemary** can be easily grown from cuttings or seeds, and choosing a variety that thrives indoors, such as 'Blue Spire,' is important. Rosemary prefers drier soil, so overwatering should be avoided.
