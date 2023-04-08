@@ -18,7 +18,7 @@ In this guide, we will focus on growing herbs from seed to harvest entirely indo
 
 ## Table of contents
 
-## G﻿rowing Herbs Indoor
+## Growing Herbs Indoor
 
 When it comes to planting herbs in a kitchen space, it's best to place them in separate pots. This allows you to isolate them in case of insect issues or mold problems. However, for gifting purposes, combining different herbs can create unique blends with delightful aromas that blend together beautifully.
 
@@ -60,7 +60,7 @@ While many herbs can flourish in indoor gardens, some varieties can be challengi
 * **Indoor rosemary** can be easily grown from cuttings or seeds, and choosing a variety that thrives indoors, such as 'Blue Spire,' is important. Rosemary prefers drier soil, so overwatering should be avoided.
 * **Chervil** is a fairly uncommon but delicious herb that is related to parsley and has a subtle flavor. It does well in low-light areas, making it a nice choice for kitchen corners and out-of-the-way spots. Keep in mind that it doesn't do well when temperatures begin to rise beyond 70 degrees Fahrenheit (21 degrees Celsius), so it's important to gauge your house's temperature before planting.
 
-## C﻿hallenging Herbs To Grow Indoor
+## Challenging Herbs To Grow Indoor
 
 * **Sage:** While starting sage indoors is not too difficult, it's important to be careful not to overwater it, as the plant is prone to death from too much water. Experts recommend waiting up to a year before harvesting, which can be challenging if you have limited kitchen garden space. However, the herb dries well after harvest and can still be a good addition to your indoor garden.
 * **Basil:** Although basil is a staple in cooking, it can be notoriously difficult to grow from seed indoors. For best results, it's recommended to start with a greenhouse plant. Varieties with smaller leaves, such as 'Dark Opal' or Thai basil, tend to work better for indoor gardening.
@@ -77,7 +77,7 @@ To increase drainage, gardeners may **use a cactus-growing system or mix sand an
 
 To prevent soil compaction, it's advisable to **cultivate within the pot every month** or so. One can use a fork to gently loosen the soil within the container, taking care to stay mostly on the periphery to avoid damaging the roots.
 
-## Choosing The P﻿ots and Containers
+## Choosing The Pots and Containers
 
 **Drainage is essential for herb growth**, and it is crucial to choose a planter that allows for ample flow. Any material works for containers, but terra cotta pots are not recommended as they make the herbs dry out faster, making it challenging to estimate their watering needs. While any container works, smaller pots are preferred to save space. 
 
