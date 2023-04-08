@@ -10,7 +10,7 @@ tags:
   - home-gardening-essentials
 draft: true
 ---
-A herb pot is a highly rewarding project for any kitchen gardener. You can fill it to the brim with your favorite herbs like cilantro, sage, or a medley of mints. The possibilities for herb combinations are endless. You could even create a "pasta sauce herb garden" with a mix of thyme, oregano, and basil. The best part about these herbs is that they thrive with frequent harvesting, making them perfect for a kitchen garden. With a simple snip, you can add fresh flavors to any dish.
+A herb pot is a highly rewarding project for any kitchen gardener. You can fill it to the brim with your favorite herbs like cilantro, sage, or a medley of mints. The possibilities for herb combinations are endless. You could even create a "pasta sauce herb garden" with a mix of thyme, oregano, and basil. The best part about these herbs is that they thrive with frequent harvesting, making them perfect for an indoor garden. With a simple snip, you can add fresh flavors to any dish.
 
 In this guide, we will focus on growing herbs from seed to harvest entirely indoors, but the same principles can be applied to transplants and cuttings. Pay attention to critical factors such as soil drainage, temperature, and humidity to ensure that your indoor herb garden thrives.
 
@@ -66,9 +66,9 @@ However, **if the herbs start to spread over the edges or need more space, repot
 
 ### **First Steps for Planting Herbs:**
 
-1. Prepare your container and soil mix. Make sure to give the mix some water to keep your seeds from shifting when you water them for the first time. 
-2. Sow your seeds about one to three times deeper than their size. If the seeds are small, press them barely into the soil and sprinkle some vermiculite on top. For larger seeds, press about half an inch and then cover them. 
-3. Water the seeds lightly and cover the container with plastic wrap to keep the soil mix and seeds warm and encourage germination. Place the container in a sunny area or under a light, and remove the plastic wrap when the seedlings emerge.
+1. **Prepare your container and soil mix**. Make sure to give the mix some water to **keep your seeds from shifting** when you water them for the first time. 
+2. **Sow your seeds about one to three times deeper than their size.** If the seeds are small, press them barely into the soil and sprinkle some vermiculite on top. For larger seeds, press about half an inch and then cover them. 
+3. **Water the seeds lightly and cover the container with plastic wrap to keep the soil mix and seeds warm** and encourage germination. Place the container in a sunny area or under a light, and remove the plastic wrap when the seedlings emerge.
 
 ### **Maintaining Herb Growth:**
 
