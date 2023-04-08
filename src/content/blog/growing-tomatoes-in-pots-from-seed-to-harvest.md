@@ -16,7 +16,7 @@ For those looking to cultivate tomatoes in pots, our top recommendation is to op
 
 Growing tomatoes in pots can be a rewarding experience, and if you follow these steps, you can enjoy fresh, juicy tomatoes all summer long. Here is a step-by-step guide on how to grow tomatoes in pots.
 
-### **Step 1: Choose the Right Container**
+### Step 1: Choose the Right Container
 
 You need to look for a container that can hold at least 5 gallons (19 liters) of soil and is approximately 15-20 inches (40-50cm) in diameter. A bucket can work well for this purpose, and if it has a handle, it will make it easier to move it around if needed. A large enough container will help your plant develop a large and healthy root system. Also, add a few drainage holes at the bottom of the container with a drill or a hammer and nail.
 
