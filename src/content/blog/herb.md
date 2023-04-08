@@ -4,12 +4,13 @@ postSlug: how-to-grow-herbs-indoors
 description: Learn growing herbs from seed to harvest entirely indoors with herb
   options categorized by difficulty level that are suitable for indoor
   cultivation.
-pubDatetime: 2023-04-07T18:39:18.834Z
+pubDatetime: 2023-04-08T09:08:44.784Z
+featured: true
 ogImage: /images/uploads/how-to-grow-herbs-indoor.jpeg
 tags:
   - herbs
   - home-gardening-essentials
-draft: true
+draft: false
 ---
 A herb pot is a highly rewarding project for any kitchen gardener. You can fill it to the brim with your favorite herbs like cilantro, sage, or a medley of mints. The possibilities for herb combinations are endless. You could even create a "pasta sauce herb garden" with a mix of thyme, oregano, and basil. The best part about these herbs is that they thrive with frequent harvesting, making them perfect for an indoor garden. With a simple snip, you can add fresh flavors to any dish.
 
@@ -26,6 +27,8 @@ Incorporating herb pots into your kitchen will give you access to fresh herbs at
 ![indoor herb garden](/images/uploads/indoor-herb-garden.jpg)
 
 Many herbs are ideal for indoor growing and can be transplanted from outdoor gardens to extend the growing season during colder months. Rosemary, oregano, thyme, and sage are herbs that propagate well when cut from an existing plant and prepared for indoor growth. To propagate them, cut a 4-inch section from the stem or leaf and strip off an inch of the lower leaves. Place the stem in vermiculite potting mix and maintain moisture while the plant establishes itself. Cover the stem with clear plastic or glass to keep the humidity high and let in some light but avoid direct sunlight to prevent overheating. Occasionally remove the cover or place the plant in a transitional area for ventilation. This technique is also useful for transplants bought from a greenhouse, as they are already acclimatized to temperature changes.
+
+![Indoor grown herbs with light support](/images/uploads/vertical-planters-with-led.jpg)
 
 For some herbs, like basil, growing from seed can be challenging, and using transplants can be a helpful shortcut. When starting your indoor garden, consider [selecting herbs that are best suited to home space](https://urbangardener.wiki/posts/planning-indoor-garden/).
 
@@ -97,13 +100,13 @@ While some herbs require specialized care, most can benefit from these tips for 
 * **Give your herbs a regular "bath" by misting them every few days.** This will help to keep them hydrated and cut down on insect issues since weakened plants are more susceptible to pests like aphids and spider mites.
 * **Water your herbs from the base, not the leaves.** This will help the plants to get hydrated without flattening out from too much water hitting the leaves.
 
-## Troubleshooting Your Herbs: Common Issues and Solutions
-
-Are your herbs not growing as fast as you'd like, or are they suffering from brown patches, withered leaves, whitish fuzz on the soil, soft stems, or bug infestations? Don't worry, these are common problems and can be easily solved!
-
 ## Harvesting and Preserving Herbs
 
 * When harvesting herbs, **go for the "older" leaves** that are full and avoid clipping near new growth. If the plant begins to flower, snap off the flowering part to prolong the herb's lifespan.
 * **Stems of herbs tend to have abundant flavor** as well, so don't be afraid to use them in your dishes.
 * There are many ways to **preserve herbs for months, including drying, preserving in olive oil, and covering completely with honey**. Each method imparts a unique flavor to the herbs.
 * **Freshly harvested herbs can make a huge difference in the flavors of your dishes.** Consider growing your own kitchen garden to enjoy fresh herbs year-round.
+
+## Troubleshooting Your Herbs: Common Issues and Solutions
+
+Are your herbs not growing as fast as you'd like, or are they suffering from brown patches, withered leaves, whitish fuzz on the soil, soft stems, or bug infestations? Don't worry, these are common problems and can be easily solved! Browse common issues and solutions to keep your indoor herb garden thriving.
