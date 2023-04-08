@@ -5,6 +5,7 @@ description: Learn growing herbs from seed to harvest entirely indoors with herb
   options categorized by difficulty level that are suitable for indoor
   cultivation.
 pubDatetime: 2023-04-07T18:39:18.834Z
+ogImage: /images/uploads/how-to-grow-herbs-indoor.jpeg
 tags:
   - herbs
   - home-gardening-essentials
@@ -37,6 +38,9 @@ While many herbs can flourish in indoor gardens, some varieties can be challengi
 ![Homegrown peppermint herb in a pot in kitchen ](/images/uploads/homegrown-peppermint-herb-1-.jpg)
 
 * **Lemongrass** is a unique herb that doesn't require planting from seed. Instead, you can purchase a stalk of lemongrass from a grocery store or farmers' market, trim the top, and submerge the stalk in a few inches of water. The stalk will develop roots independently and produce numerous new shoots that you can harvest.
+
+![Homegrown lemongrass herb in a pot](/images/uploads/indoor-lemongrass-herb.jpeg)
+
 * **Vietnamese coriander** is a great option for indoor growing, as it is hardy and relatively easy to care for. Unlike other varieties of coriander, it is considered easier to grow and has just as much flavor. Once established, it can last for months, making it a great addition to any indoor herb garden.
 
 ## Moderate Herbs for Your Indoor Garden
@@ -45,7 +49,7 @@ While many herbs can flourish in indoor gardens, some varieties can be challengi
 
 ![indoor grown parsley](/images/uploads/parsley-indoor-grow.jpg)
 
-* **Thyme** requires more light, making it ideal to place it alongside oregano or position them next to each other in a south-facing window
+* **Thyme** requires more light, making it ideal to place it alongside oregano or position them next to each other in a south-facing window. Consider using an outside window sill or balcony to grow this versatile herb. Thyme is a hardy plant that can thrive in a range of temperatures, and it's an excellent option for [outdoor container gardening](https://urbangardener.wiki/posts/balcony-gardening-ideas-w-plant--planter-tips/). Just be sure to choose a location that receives plenty of sunlight.
 
 ![Homegrown thyme herb in a pot on balcony](/images/uploads/thyme-in-the-flower-pot-on-the-balcony.jpg)
 
@@ -95,7 +99,7 @@ While some herbs require specialized care, most can benefit from these tips for 
 
 ## Troubleshooting Your Herbs: Common Issues and Solutions
 
-Are your herbs not growing as fast as you'd like, or are they suffering from brown patches, withered leaves, whitish fuzz on the soil, soft stems, or bug infestations? Don't worry, these are common problems and can be easily solved! 
+Are your herbs not growing as fast as you'd like, or are they suffering from brown patches, withered leaves, whitish fuzz on the soil, soft stems, or bug infestations? Don't worry, these are common problems and can be easily solved!
 
 ## Harvesting and Preserving Herbs
 
