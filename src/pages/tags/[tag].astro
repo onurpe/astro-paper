@@ -36,6 +36,7 @@ const tagPosts = getPostsByTag(posts, tag);
 ---
 
 <Layout title={`Tag:${tag} | ${SITE.title}`}>
+  <meta name="robots" content="noindex" slot="head" />
   <Header activeNav="tags" />
   <Main
     pageTitle={`Tag:${tag}`}
