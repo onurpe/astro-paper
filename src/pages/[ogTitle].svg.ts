@@ -14,5 +14,6 @@ export function getStaticPaths() {
     .filter(({ data }) => !data.ogImage)
     .map(({ data }) => ({
       params: { ogTitle: encodeURIComponent(data.title) },
+      ext: ".svg",
     }));
 }
