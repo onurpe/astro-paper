@@ -1,5 +1,5 @@
 ---
-title: How To Start An Indoor Garden? /w 12 Tips For Success
+title: How To Start An Indoor Garden /w 12 Tips For Success
 postSlug: how-to-start-indoor-garden
 description: To help you get the most out of your indoor garden, we’ve put
   together a list of tips and tricks that are sure to help you succeed!
