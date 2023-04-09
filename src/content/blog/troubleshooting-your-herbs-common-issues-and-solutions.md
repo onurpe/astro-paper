@@ -1,5 +1,5 @@
 ---
-title: "Resolving 5 Common Issues with Indoor Herb Gardening:"
+title: Resolving 5 Common Issues with Indoor Herb Gardening
 postSlug: resolving-herb-garden-issues
 description: Here are some common issues and solutions to keep your indoor herb
   garden thriving
