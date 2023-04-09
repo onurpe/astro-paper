@@ -2,7 +2,7 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://urbangardener.wiki/",
-  author: "Urban Gardener",
+  author: "urbangardener.wiki",
   desc: "Helping urban dwellers turn their balconies, rooftops, and small outdoor spaces into lush gardens",
   title: "Urban Gardener",
   ogImage: "urbangardener-og.jpg",
