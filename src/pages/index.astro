@@ -6,6 +6,7 @@ import Footer from "@components/Footer.astro";
 import LinkButton from "@components/LinkButton.astro";
 import Hr from "@components/Hr.astro";
 import Card from "@components/Card";
+// import Carousel from "@components/Carousel";
 import Socials from "@components/Socials.astro";
 import getSortedPosts from "@utils/getSortedPosts";
 import slugify from "@utils/slugify";
@@ -90,6 +91,28 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       )
     }
 
+    {
+      /* {
+      featuredPosts.length > 0 && (
+        <>
+          <section id="featured">
+            <h2>Carousel</h2>
+            <ul>
+              {featuredPosts.map(({ data }) => (
+                <Carousel
+                  href={`/posts/${slugify(data)}`}
+                  frontmatter={data}
+                  secHeading={false}
+                />
+              ))}
+            </ul>
+          </section>
+          <Hr />
+        </>
+      )
+    }
+*/
+    }
     <section id="recent-posts">
       <h2>Recent Posts</h2>
       <ul>
