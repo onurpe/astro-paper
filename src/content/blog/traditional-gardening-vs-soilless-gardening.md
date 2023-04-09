@@ -4,7 +4,7 @@ description: Traditional gardening and soilless gardening are two different
   approaches to growing plants, each with its own unique set of benefits and
   drawbacks.
 pubDatetime: 2023-04-03T22:15:16.730Z
-ogImage: /images/uploads/potting-soil-1-.jpg
+ogImage: ""
 tags:
   - soil
 ---
