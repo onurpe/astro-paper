@@ -13,7 +13,6 @@ export function getStaticPaths() {
   return posts
     .filter(({ data }) => !data.ogImage)
     .map(({ data }) => ({
-      params: { ogTitle: encodeURIComponent(data.title) },
-      ext: ".svg",
+      params: { ogTitle: data.title },
     }));
 }
