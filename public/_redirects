@@ -13,6 +13,7 @@
 # Rewrite a path
 # /pass-through /index.html    200
 
-/posts/1/               /posts/ 301!
-/tags/balcony-gardening-essentials/               /tags/home-gardening-essentials/  301
-/posts/where-to-grow-indoor-herbs--edibles/        /posts/planning-indoor-garden/   301
+/posts/1/                                           /posts/ 301!
+/tags/balcony-gardening-essentials/                 /tags/home-gardening-essentials/  301
+/posts/where-to-grow-indoor-herbs--edibles/         /posts/planning-indoor-garden/   301
+/posts/indoor-gardening-tips                        /posts/how-to-start-indoor-garden   301
