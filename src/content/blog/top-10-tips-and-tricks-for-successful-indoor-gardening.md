@@ -4,6 +4,7 @@ postSlug: how-to-start-indoor-garden
 description: To help you get the most out of your indoor garden, we’ve put
   together a list of tips and tricks that are sure to help you succeed!
 pubDatetime: 2023-04-07T13:03:59.954Z
+ogImage: /images/uploads/planters-and-containers-1-.jpg
 tags:
   - home-gardening-essentials
   - indoor-gardening
