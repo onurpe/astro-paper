@@ -31,7 +31,7 @@ Many herbs are ideal for indoor growing and can be transplanted from outdoor gar
 
 ![Indoor grown herbs with light support](/images/uploads/vertical-planters-with-led.jpg "Indoor grown herbs with light support")
 
-For some herbs, like basil, growing from seed can be challenging, and using transplants can be a helpful shortcut. When starting your indoor garden, consider [selecting herbs that are best suited to home space](https://urbangardener.wiki/posts/planning-indoor-garden/).
+For some herbs, like basil, growing from seed can be challenging, and using transplants can be a helpful shortcut. When [starting your indoor garden](https://urbangardener.wiki/posts/how-to-start-indoor-garden/), consider [selecting herbs that are best suited to home space](https://urbangardener.wiki/posts/planning-indoor-garden/).
 
 While many herbs can flourish in indoor gardens, some varieties can be challenging to grow from seed. Here are some options categorized by difficulty level that are suitable for indoor cultivation.
 
