@@ -11,6 +11,8 @@ tags:
 ---
 Indoor gardening is a great way to grow your own fruits, vegetables, and herbs in the comfort of your own home. To help you get the most out of your indoor garden, we’ve put together a list of tips and tricks that are sure to help you succeed.
 
+![3 indoor grown plants in pots](/images/uploads/indoor-herb-garden.jpg "3 indoor grown plants in pots")
+
 1. **Find a Right Place For Your Indoor Garden:** Look for a well-lit area in your home that receives at least 6-8 hours of sunlight per day. South-facing windows are usually the best option, but east or west-facing windows can also work. Alternatively, you can use grow lights to supplement natural light. Read detailed guide about [selecting right place for indoor garden](https://urbangardener.wiki/posts/planning-indoor-garden/).
 2. **Optimize Light Sources:** Indoor plants naturally grow towards a light source, whether it’s a window or an artificial grow light. Keep all plants equidistant from light sources to promote vertical growth. If your plants start to bend, rotate them to compensate.
 3. **Provide Adequate Light:** Plants need a minimum of five hours of sunlight per day, and some require double that to bear fruit. That's why [choosing a right place for your indoor plants](https://urbangardener.wiki/posts/where-to-grow-indoor-herbs--edibles) is crucial. Make sure your plants receive enough light from a window or an artificial grow light.[](https://urbangardener.wiki/posts/where-to-grow-indoor-herbs--edibles/)
