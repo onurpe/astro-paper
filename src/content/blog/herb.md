@@ -33,7 +33,7 @@ Many herbs are ideal for indoor growing and can be transplanted from outdoor gar
 
 For some herbs, like basil, growing from seed can be challenging, and using transplants can be a helpful shortcut. When [starting your indoor garden](https://urbangardener.wiki/posts/how-to-start-indoor-garden/), consider [selecting herbs that are best suited to home space](https://urbangardener.wiki/posts/planning-indoor-garden/).
 
-While many herbs can flourish in indoor gardens, some varieties can be challenging to grow from seed. Here are some options categorized by difficulty level that are suitable for indoor cultivation.
+While many herbs can flourish in indoor gardens, some varieties can be challenging to grow from seed. Here are some options ranked by difficulty level that are suitable for indoor cultivation.
 
 ### Easy Herbs to Grow Indoor
 
@@ -63,6 +63,14 @@ While many herbs can flourish in indoor gardens, some varieties can be challengi
 ![Homegrown basil herb](/images/uploads/homegrown-basil-herb-1-.jpg "Homegrown basil herb")
 
 * **Cilantro:** While cilantro grows well outdoors, it requires more care when grown indoors. It's important to grow it from seeds or starter plants, as it doesn't transplant well. Additionally, cilantro needs plenty of drainage and more nutrients than other herbs, making it challenging to keep the soil nourished. To help it thrive, fertilize it biweekly and only water when the soil is very dry.
+
+## Artificial lighting options to consider for indoor herb gardening
+
+When choosing a grow light, make sure to consider the size of your indoor herb garden and the specific lighting needs of the herbs you are growing. Keep in mind that different types of plants require different levels of light, so it's important to research the specific requirements of each herb before selecting a lighting option. 
+
+* **LED grow lights:** These lights provide a full spectrum of light that is optimized for plant growth. They are energy-efficient and can be adjusted to different levels of brightness.
+* **T5 fluorescent lights:** These lights are also great for indoor herb gardening as they produce a lot of light and are more affordable than LED lights. They work well for plants that require a lot of light, such as basil.
+* **HID lights:** High-intensity discharge (HID) lights are the most powerful and can produce the highest yields of herbs. However, they are also the most expensive and require a lot of electricity.
 
 ## Soil Preparation For Indoor Herbs
 
