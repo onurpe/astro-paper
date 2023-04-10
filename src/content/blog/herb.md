@@ -10,6 +10,7 @@ ogImage: /images/uploads/how-to-grow-herbs-indoor.jpeg
 tags:
   - herbs
   - home-gardening-essentials
+  - indoor-gardening
 draft: false
 ---
 A herb pot is a highly rewarding project for any kitchen gardener. You can fill it to the brim with your favorite herbs like cilantro, sage, or a medley of mints. The possibilities for herb combinations are endless. You could even create a "pasta sauce herb garden" with a mix of thyme, oregano, and basil. The best part about these herbs is that they thrive with frequent harvesting, making them perfect for an indoor garden. With a simple snip, you can add fresh flavors to any dish.
