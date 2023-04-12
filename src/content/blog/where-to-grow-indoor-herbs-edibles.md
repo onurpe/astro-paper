@@ -37,7 +37,7 @@ Check your home through the day to locate the brightest, sunniest spots; rooms t
 
    Suitable plants:
 
-   * Herbs (most)
+   * [Herbs](https://urbangardener.wiki/posts/how-to-grow-herbs-indoors/) (most)
    * Edible flowers
    * Sprouts, leaves, & roots
    * Fruiting vegetables
@@ -46,7 +46,7 @@ Check your home through the day to locate the brightest, sunniest spots; rooms t
 
    Suitable plants:
 
-   * Herbs
+   * [Herbs](https://urbangardener.wiki/posts/how-to-grow-herbs-indoors/)
    * Edible flowers
    * Sprouts, leaves, & roots (if the room is not too hot)
    * Fruiting vegetables
@@ -67,7 +67,7 @@ These areas receive sun for part of the day or even dark corners that barely see
    * Lettuce
    * Small root crops, such as radishes
    * Alpine strawberries
-2. **Dark corners:** Only mushrooms will grow successfully in gloomy areas that receive little or no direct sunlight, but if you introduce a grow light or two, your choices will be much greater. Most grow lights are suitable for small plants, so choose compact crops such as herbs, lettuce, and bush tomatoes.
+2. **Dark corners:** Only mushrooms will grow successfully in gloomy areas that receive little or no direct sunlight, but **if you introduce a grow light** or two, your choices will be much greater. Most grow lights are suitable for small plants, so choose compact crops such as herbs, lettuce, and bush tomatoes.
 
    Suitable plants:
 
@@ -98,7 +98,6 @@ Some plants that are normally pollinated by insects are easier to grow on an out
 
    Suitable plants:
 
-   * Herbs
    * Leafy crops
    * Root vegetables
    * Fruits (over winter)
@@ -106,7 +105,7 @@ Some plants that are normally pollinated by insects are easier to grow on an out
 
    Suitable plants:
 
-   * Herbs & edible flowers (most)
+   * [Herbs](https://urbangardener.wiki/posts/how-to-grow-herbs-indoors/) & edible flowers (most)
    * Leafy crops
    * Bush tomatoes
    * Chiles
