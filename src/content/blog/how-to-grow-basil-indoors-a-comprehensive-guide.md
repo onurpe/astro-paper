@@ -14,7 +14,9 @@ draft: false
 ---
 Basil, also known as sweet basil, is a familiar member of the Labiatae family that originated in western and tropical Asia. It is a versatile herb that can be grown indoors or outdoors, making it a perfect addition to your indoor herb garden. In this guide, we will cover everything you need to know about growing basil indoors, including how to grow basil from seed and cuttings, how long does basil take to grow, and tips for maintaining healthy plants.
 
-![Sweet basil in a pot](/images/uploads/sweet-basil-in-a-pot.jpg "Sweet basil in a pot")
+## Table of contents
+
+![Indoor grown sweet basil in a pot](/images/uploads/sweet-basil-in-a-pot.jpg "Indoor grown sweet basil in a pot")
 
 ## Starting Basil Indoors
 
