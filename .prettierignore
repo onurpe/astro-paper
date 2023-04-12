@@ -7,6 +7,7 @@ public/_redirects
 public/urbangardener-og.jpg
 public/images/*
 src/components/BlogPostingJSONLD.astro
+src/pages/index.astro
 # Except these files & folders
 !/src
 !/public

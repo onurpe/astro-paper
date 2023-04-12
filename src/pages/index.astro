@@ -104,29 +104,6 @@ const socialCount = SOCIALS.filter(social => social.active).length;
             </div>
           </section>
           <hr />
-          <style>
-            @media (min-width: 768px) {
-              .flex-wrapper {
-                flex-direction: row;
-              }
-              .flex-container {
-                display: flex;
-                padding: 0;
-              }
-              .flex-container.odd .flex-img-wrapper {
-                order: 2;
-              }
-              .flex-container.odd .flex-card-wrapper {
-                order: 1;
-              }
-              .flex-container.even .flex-img-wrapper {
-                order: 1;
-              }
-              .flex-container.even .flex-card-wrapper {
-                order: 2;
-              }
-            }
-          </style>
         </>
       )
     }
@@ -216,6 +193,27 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   }
   .all-posts-btn-wrapper {
     @apply my-8 text-center;
+  }
+  @media (min-width: 768px) {
+    .flex-wrapper {
+      flex-direction: row;
+    }
+    .flex-container {
+      display: flex;
+      padding: 0;
+    }
+    .flex-container.odd .flex-img-wrapper {
+      order: 2;
+    }
+    .flex-container.odd .flex-card-wrapper {
+      order: 1;
+    }
+    .flex-container.even .flex-img-wrapper {
+      order: 1;
+    }
+    .flex-container.even .flex-card-wrapper {
+      order: 2;
+    }
   }
 
   /* swiper
