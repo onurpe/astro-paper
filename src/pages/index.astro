@@ -21,6 +21,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 ---
 
 <Layout>
+  <link slot="head" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css" />
   <Header />
   <main id="main-content">
     <section id="hero">
@@ -76,43 +77,60 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         <>
           <section id="featured">
             <h2>Featured</h2>
-            <ul>
-              {featuredPosts.map(({ data }) => (
-                <Card
-                  href={`/posts/${slugify(data)}`}
-                  frontmatter={data}
-                  secHeading={false}
-                />
+            <div class="flex-wrapper" style={{ display: "flex", flexDirection: "column", flexWrap: "wrap" }}>
+              {featuredPosts.map(({ data }, index) => (
+                <div key={data.title} class={`flex-container ${index % 2 === 0 ? "odd" : "even"}`} style={{ marginBottom: "1rem", borderWidth: ".25rem", borderStyle: "solid", borderColor: "rgba(var(--color-border)"  }}>
+                  <div class="flex-img-wrapper" style={{ flexBasis: "50%" }}>
+                    <a href={`/posts/${slugify(data)}`}>
+                      <img
+                        src={data.ogImage}
+                        alt={data.title}
+                        style={{
+                          width: "100%",
+                          height: "auto",
+                          objectFit: "cover",
+                          maxHeight: "250px", // Set a maximum height to prevent very tall images
+                        }}
+                      />
+                    </a>
+                  </div>
+                  <div class="flex-card-wrapper" style={{ flexBasis: "50%", paddingLeft: "1rem" }}>
+                    <ul style={{ marginTop: "10px", paddingLeft: 0 }}>
+                      <Card href={`/posts/${slugify(data)}`} frontmatter={data} secHeading={false} />
+                    </ul>
+                  </div>
+                </div>
               ))}
-            </ul>
+            </div>
           </section>
-          <Hr />
+          <hr />
+          <style>
+            @media (min-width: 768px) {
+              .flex-wrapper {
+                flex-direction: row;
+              }
+              .flex-container {
+                display: flex;
+                padding: 0;
+              }
+              .flex-container.odd .flex-img-wrapper {
+                order: 2;
+              }
+              .flex-container.odd .flex-card-wrapper {
+                order: 1;
+              }
+              .flex-container.even .flex-img-wrapper {
+                order: 1;
+              }
+              .flex-container.even .flex-card-wrapper {
+                order: 2;
+              }
+            }
+          </style>
         </>
       )
     }
 
-    {
-      /* {
-      featuredPosts.length > 0 && (
-        <>
-          <section id="featured">
-            <h2>Carousel</h2>
-            <ul>
-              {featuredPosts.map(({ data }) => (
-                <Carousel
-                  href={`/posts/${slugify(data)}`}
-                  frontmatter={data}
-                  secHeading={false}
-                />
-              ))}
-            </ul>
-          </section>
-          <Hr />
-        </>
-      )
-    }
-*/
-    }
     <section id="recent-posts">
       <h2>Recent Posts</h2>
       <ul>
@@ -199,4 +217,23 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   .all-posts-btn-wrapper {
     @apply my-8 text-center;
   }
+
+  /* swiper
+  .swiper {
+    padding-top: 3rem;
+    padding-bottom: 1.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 48rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  .sw-text-bg {
+
+  }
+  .swiper-slide h3 {
+    text-align: left;
+    font-size: 18px;
+  }
+  */
 </style>
