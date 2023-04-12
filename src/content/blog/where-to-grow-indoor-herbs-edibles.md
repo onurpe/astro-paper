@@ -15,13 +15,13 @@ Welcome to the world of indoor gardening! When you think of gardening, you might
 
 With indoor gardening, you can increase your annual crop yields and even try growing new fruits and vegetables that may not thrive in an outdoor environment. And the best part? It's easy and low-cost to get started, takes up very little space, and requires minimal daily care.
 
-If you're new to gardening, don't worry! We will help you to plan your [indoor garden to grow herbs](https://urbangardener.wiki/posts/how-to-grow-herbs-indoors/) and edibles in this guide. Regardless of the size of your home, you can cultivate a variety of edible plants indoors as long as there is some access to natural light. You can create growing zones in areas such as windowsills, under a skylight, or in well-lit rooms. If you have a dark area, you can still grow edibles by installing grow lights. So what are you waiting for? Let's start to plan your indoor garden!
+If you're new to indoor gardening, don't worry! We will help you to plan your [indoor garden to grow herbs](https://urbangardener.wiki/posts/how-to-grow-herbs-indoors/) and edibles in this guide. Regardless of the size of your home, you can cultivate a variety of edible plants indoors as long as there is some access to natural light. You can create growing zones in areas such as windowsills, under a skylight, or in well-lit rooms. If you have a dark area, you can still grow edibles by installing grow lights. So what are you waiting for? Let's start to plan your indoor garden! 
 
 ## Table of contents
 
 ## Bright, sunlit zones:
 
-Check your home through the day to locate the brightest, sunniest spots; rooms that receive direct sun for six or more hours a day in summer are best for crops that need good light. These include most fruit plants and herbs, and fruiting vegetable crops such as [tomatoes](https://urbangardener.wiki/posts/growing-tomatoes-in-pots-from-seed-to-harvest/), eggplants, and peppers.
+Check your home through the day to locate the brightest, sunniest spots; rooms that receive direct sun for six or more hours a day in summer are best for crops that need good light. These include most fruit plants and herbs such as [basil](https://urbangardener.wiki/posts/how-to-grow-basil-indoors/) and fruiting vegetable crops such as [tomatoes](https://urbangardener.wiki/posts/growing-tomatoes-in-pots-from-seed-to-harvest/), eggplants, and peppers.
 
 ![Bright, sunlit area of an house for indoor gardening](/images/uploads/bright-sunlit-zones-for-indoor-gardening-1-.jpg "Bright, sunlit area of an house for indoor gardening")
 
@@ -37,7 +37,7 @@ Check your home through the day to locate the brightest, sunniest spots; rooms t
 
    Suitable plants:
 
-   * Herbs (most)
+   * [Herbs](https://urbangardener.wiki/posts/how-to-grow-herbs-indoors/) (most)
    * Edible flowers
    * Sprouts, leaves, & roots
    * Fruiting vegetables
@@ -46,7 +46,7 @@ Check your home through the day to locate the brightest, sunniest spots; rooms t
 
    Suitable plants:
 
-   * Herbs
+   * [Herbs](https://urbangardener.wiki/posts/how-to-grow-herbs-indoors/)
    * Edible flowers
    * Sprouts, leaves, & roots (if the room is not too hot)
    * Fruiting vegetables
@@ -67,7 +67,7 @@ These areas receive sun for part of the day or even dark corners that barely see
    * Lettuce
    * Small root crops, such as radishes
    * Alpine strawberries
-2. **Dark corners:** Only mushrooms will grow successfully in gloomy areas that receive little or no direct sunlight, but if you introduce a grow light or two, your choices will be much greater. Most grow lights are suitable for small plants, so choose compact crops such as herbs, lettuce, and bush tomatoes.
+2. **Dark corners:** Only mushrooms will grow successfully in gloomy areas that receive little or no direct sunlight, but **if you introduce a grow light** or two, your choices will be much greater. Most grow lights are suitable for small plants, so choose compact crops such as herbs, lettuce, and bush tomatoes.
 
    Suitable plants:
 
@@ -98,7 +98,6 @@ Some plants that are normally pollinated by insects are easier to grow on an out
 
    Suitable plants:
 
-   * Herbs
    * Leafy crops
    * Root vegetables
    * Fruits (over winter)
@@ -106,7 +105,7 @@ Some plants that are normally pollinated by insects are easier to grow on an out
 
    Suitable plants:
 
-   * Herbs & edible flowers (most)
+   * [Herbs](https://urbangardener.wiki/posts/how-to-grow-herbs-indoors/) & edible flowers (most)
    * Leafy crops
    * Bush tomatoes
    * Chiles
