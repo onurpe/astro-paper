@@ -79,7 +79,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
             <h2 style="margin-bottom: 1rem;">Featured</h2>
             <div class="flex-wrapper" style={{ display: "flex", flexDirection: "column", flexWrap: "wrap" }}>
               {featuredPosts.map(({ data }, index) => (
-                <div key={data.title} class={`flex-container ${index % 2 === 0 ? "odd" : "even"}`} style={{ marginBottom: "1rem", borderWidth: ".25rem", borderStyle: "solid", borderColor: "rgba(var(--color-border)"  }}>
+                <div class={`flex-container ${index % 2 === 0 ? "odd" : "even"}`} style={{ marginBottom: "1rem", borderWidth: ".25rem", borderStyle: "solid", borderColor: "rgba(var(--color-border)"  }}>
                   <div class="flex-img-wrapper" style={{ flexBasis: "50%" }}>
                     <a href={`/posts/${slugify(data)}`}>
                       <img
