@@ -44,13 +44,13 @@ There are several types of planters that can be used for balcony gardening, each
 
 ### **Container Planters:**
 
-Container planters are the most common type of planter used for balcony gardening. They come in a variety of shapes and sizes, including pots, buckets, and troughs. Advantages include their versatility, ease of use, and the ability to move them around. Disadvantages include limited space for root growth and the need for frequent watering.
+Container planters are the most common type of planter used for balcony gardening. They come in a variety of shapes and sizes, including pots, buckets, and troughs. Advantages include their versatility, ease of use, and the ability to move them around. Disadvantages include limited space for root growth and the need for frequent watering especially for small containers.
 
 ![Container planters for balcony gardening](/images/uploads/choosing-the-right-pot-size-for-plants.jpg)
 
 #### Recommended plants for container planters:
 
-* Small containers: herbs (basil, parsley, cilantro), small vegetables (cherry tomatoes, lettuce, radishes), succulents
+* Small containers: herbs ([basil](https://urbangardener.wiki/posts/how-to-grow-basil-indoors/), parsley, cilantro), small vegetables (cherry tomatoes, lettuce, radishes), succulents
 * Medium containers: [tomatoes](https://urbangardener.wiki/posts/growing-tomatoes-in-pots-from-seed-to-harvest/), peppers, eggplants, beans, strawberries, dwarf fruit trees (citrus, figs)
 * Large containers: shrubs (blueberries, raspberries, blackberries), dwarf trees (dwarf apple, peach, nectarine), ornamental grasses
 
@@ -75,7 +75,7 @@ Window boxes are a type of planter that attaches to the railings of your balcony
 #### Recommended plants for window boxes:
 
 * Flowers: pansies, petunias, snapdragons, geraniums, marigolds
-* Herbs: basil, chives, cilantro, parsley, thyme
+* Herbs: [basil](https://urbangardener.wiki/posts/how-to-grow-basil-indoors/), chives, cilantro, parsley, thyme
 * Edible plants: lettuce, kale, chard, spinach, radishes
 
 ### Vertical Planters:
@@ -87,7 +87,7 @@ Vertical planters are a type of planter that can be mounted on walls or hung fro
 #### Recommended plants for vertical planters:
 
 * Flowers: petunias, impatiens, geraniums, fuchsia, lobelia
-* Herbs: basil, thyme, chives, mint, rosemary
+* Herbs: [basil](https://urbangardener.wiki/posts/how-to-grow-basil-indoors/), thyme, chives, mint, rosemary
 * Edible plants: strawberries, lettuce, spinach, kale, cherry tomatoes
 
 ### Raised Garden Beds:
@@ -99,7 +99,7 @@ Raised garden beds are another option for larger balconies or outdoor spaces. Ad
 #### Recommended plants for raised garden beds:
 
 * Vegetables: tomatoes, peppers, eggplants, zucchini, cucumbers
-* Herbs: basil, parsley, cilantro, chives, thyme
+* Herbs: [basil](https://urbangardener.wiki/posts/how-to-grow-basil-indoors/), parsley, cilantro, chives, thyme
 * Edible plants: strawberries, blueberries, raspberries, blackberries, dwarf fruit trees
 
 ## Seedlings vs Seeds for Balcony Gardening
