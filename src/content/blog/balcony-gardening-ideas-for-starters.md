@@ -5,7 +5,7 @@ description: With a little bit of planning and care, your balcony garden can be
   balcony into green lush.
 pubDatetime: 2023-04-02T23:24:26.792Z
 featured: true
-ogImage: /images/uploads/balcony-gardening-idea.jpg
+ogImage: /images/uploads/inspirational-planted-french-balcony.jpg
 tags:
   - home-gardening-essentials
 ---
