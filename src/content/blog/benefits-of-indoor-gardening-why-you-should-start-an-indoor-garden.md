@@ -22,6 +22,8 @@ From sprucing up your living space to providing fresh, homegrown produce, there 
 
 By the end of this article, you'll be convinced of the many benefits of indoor gardening and ready to get started on your own garden. So whether you're an experienced gardener or new to the world of planting, join us as we explore the world of indoor gardening and all that it has to offer.
 
+Here are some benefits and advantages of indoor gardening:
+
 ### Access to fresh produce
 
 Growing your fruits, vegetables, and herbs indoors provides you with fresh produce year-round, regardless of the season. You can use grow lights, heaters, irrigation, and humidifiers to create the right environment for your plants. Especially, [growing herbs indoors](https://urbangardener.wiki/posts/how-to-grow-herbs-indoors/) is convenient and perfect for use in the kitchen.
