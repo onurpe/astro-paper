@@ -22,7 +22,7 @@ By the end of this article, you'll be convinced of the many benefits of indoor g
 
 ## Table of contents
 
-Here are some benefits and advantages of indoor gardening:
+## Benefits and advantages of indoor gardening
 
 ### Access to fresh produce
 
