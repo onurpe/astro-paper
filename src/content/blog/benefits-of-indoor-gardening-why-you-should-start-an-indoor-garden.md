@@ -20,8 +20,6 @@ From sprucing up your living space to providing fresh, homegrown produce, there 
 
 By the end of this article, you'll be convinced of the many benefits of indoor gardening and ready to get started on your own garden. So whether you're an experienced gardener or new to the world of planting, join us as we explore the world of indoor gardening and all that it has to offer.
 
-## Table of contents
-
 Here are some of the benefits and advantages of indoor gardening: 
 
 ### Access to fresh produce
