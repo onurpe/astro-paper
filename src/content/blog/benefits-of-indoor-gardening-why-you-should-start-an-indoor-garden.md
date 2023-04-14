@@ -5,6 +5,7 @@ description: Discover the benefits of indoor gardening! Join us as we explore
   the world of indoor gardening and all that it has to offer.
 pubDatetime: 2023-04-14T13:09:04.131Z
 featured: true
+ogImage: /images/uploads/kitchen-with-indoor-grown-herbs.jpg
 tags:
   - indoor-gardening
 draft: false
