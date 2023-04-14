@@ -76,4 +76,4 @@ Plants provide emotional therapy and make great company. Tending to an indoor ga
 
 Medical experts recommend gardening to improve wellbeing and mental health. It's also a way of getting exercise, helping you stay fit. An indoor garden can reduce psychological and physiological stress and create a calming and comfortable environment.
 
-If you are feeling inspired to begin your own indoor garden, take a look at our guide on[ choosing a location for your indoor garden](https://urbangardener.wiki/posts/planning-indoor-garden/), and start your garden today!
+> If you are feeling inspired to begin your own indoor garden, take a look at our guide on [choosing a location for your indoor garden](https://urbangardener.wiki/posts/planning-indoor-garden/), and start your garden today!
