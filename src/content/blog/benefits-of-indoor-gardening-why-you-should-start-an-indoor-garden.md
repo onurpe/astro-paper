@@ -16,11 +16,11 @@ Are you looking to grow your own produce or simply add some greenery to your liv
 
 In this article, we'll explore the many benefits of indoor gardening and why it's a worthwhile pursuit. While some may be hesitant to try indoor gardening, either due to a lack of knowledge or a fear of the unknown, we'll explain why it's a great option for everyone.
 
+## Table of contents
+
 From sprucing up your living space to providing fresh, homegrown produce, there are countless reasons to start an indoor garden. We'll delve into the various benefits of this hobby, as well as the positive impact it can have on your health.
 
 By the end of this article, you'll be convinced of the many benefits of indoor gardening and ready to get started on your own garden. So whether you're an experienced gardener or new to the world of planting, join us as we explore the world of indoor gardening and all that it has to offer.
-
-## Table of contents
 
 ### Access to fresh produce
 
