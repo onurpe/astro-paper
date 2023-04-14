@@ -13,6 +13,7 @@ tags:
   - indoor-gardening
 draft: false
 ---
+
 A herb pot is a highly rewarding project for any kitchen gardener. You can fill it to the brim with your favorite herbs like cilantro, sage, or a medley of mints. The possibilities for herb combinations are endless. You could even create a "pasta sauce herb garden" with a mix of thyme, oregano, and basil. The best part about these herbs is that they thrive with frequent harvesting, making them perfect for an indoor garden. With a simple snip, you can add fresh flavors to any dish.
 
 In this guide, we will focus on growing herbs from seed to harvest entirely indoors, but the same principles can be applied to transplants and cuttings. Pay attention to critical factors such as soil drainage, temperature, and humidity to ensure that your indoor herb garden thrives.
@@ -31,46 +32,46 @@ Many herbs are ideal for indoor growing and can be transplanted from outdoor gar
 
 ![Indoor grown herbs with light support](/images/uploads/vertical-planters-with-led.jpg "Indoor grown herbs with light support")
 
-For some herbs, like basil, growing from seed can be challenging, and using transplants can be a helpful shortcut. When [starting your indoor garden](https://urbangardener.wiki/posts/how-to-start-indoor-garden/), consider [selecting herbs that are best suited to home space](https://urbangardener.wiki/posts/planning-indoor-garden/).
+For some herbs, like basil, growing from seed can be challenging, and using transplants can be a helpful shortcut. When [starting your indoor garden](https://urbangardener.wiki/posts/how-to-start-indoor-garden/), consider [selecting herbs that are best suited to home space](https://urbangardener.wiki/posts/indoor-plant-lighting-zones/).
 
 While many herbs can flourish in indoor gardens, some varieties can be challenging to grow from seed. Here are some options ranked by difficulty level that are suitable for indoor cultivation.
 
 ### Easy Herbs to Grow Indoor
 
-* **Peppermint and spearmint** are hardy and versatile plants that tend to spread rapidly, so it's essential to stay on top of harvesting them. If you prefer a robust mint flavor without cultivating a large amount, choose peppermint as it boasts a more intense taste.
+- **Peppermint and spearmint** are hardy and versatile plants that tend to spread rapidly, so it's essential to stay on top of harvesting them. If you prefer a robust mint flavor without cultivating a large amount, choose peppermint as it boasts a more intense taste.
 
 ![Homegrown peppermint herb in a pot in kitchen ](/images/uploads/homegrown-peppermint-herb-1-.jpg "Homegrown peppermint herb in a pot in kitchen ")
 
-* **Lemongrass** is a unique herb that doesn't require planting from seed. Instead, you can purchase a stalk of lemongrass from a grocery store or farmers' market, trim the top, and submerge the stalk in a few inches of water. The stalk will develop roots independently and produce numerous new shoots that you can harvest.
+- **Lemongrass** is a unique herb that doesn't require planting from seed. Instead, you can purchase a stalk of lemongrass from a grocery store or farmers' market, trim the top, and submerge the stalk in a few inches of water. The stalk will develop roots independently and produce numerous new shoots that you can harvest.
 
 ![Homegrown lemongrass herb in a pot](/images/uploads/indoor-lemongrass-herb.jpeg "Homegrown lemongrass herb in a pot")
 
-* **Vietnamese coriander** is a great option for indoor growing, as it is hardy and relatively easy to care for. Unlike other varieties of coriander, it is considered easier to grow and has just as much flavor. Once established, it can last for months, making it a great addition to any indoor herb garden.
-* **Parsley** is a popular herb that is generally easy to grow indoors, although it can have inconsistent germination. The growth of parsley usually starts around two weeks after planting, but it tends to be slower than other herbs.
+- **Vietnamese coriander** is a great option for indoor growing, as it is hardy and relatively easy to care for. Unlike other varieties of coriander, it is considered easier to grow and has just as much flavor. Once established, it can last for months, making it a great addition to any indoor herb garden.
+- **Parsley** is a popular herb that is generally easy to grow indoors, although it can have inconsistent germination. The growth of parsley usually starts around two weeks after planting, but it tends to be slower than other herbs.
 
 ![Indoor grown parsley in a pot](/images/uploads/parsley-indoor-grow.jpg "Indoor grown parsley in a pot")
 
-* **Thyme** requires more light, making it ideal to place it alongside oregano or position them next to each other in a south-facing window. Consider using an outside windowsill or balcony to grow this versatile herb. Thyme is a hardy plant that can thrive in a range of temperatures, and it's an excellent option for [outdoor container gardening](https://urbangardener.wiki/posts/balcony-gardening-ideas-w-plant--planter-tips/). Just be sure to choose a location that receives plenty of sunlight.
+- **Thyme** requires more light, making it ideal to place it alongside oregano or position them next to each other in a south-facing window. Consider using an outside windowsill or balcony to grow this versatile herb. Thyme is a hardy plant that can thrive in a range of temperatures, and it's an excellent option for [outdoor container gardening](https://urbangardener.wiki/posts/balcony-gardening-ideas-w-plant--planter-tips/). Just be sure to choose a location that receives plenty of sunlight.
 
 ![Homegrown thyme herb in a pot on balcony](/images/uploads/thyme-in-the-flower-pot-on-the-balcony.jpg "Homegrown thyme herb in a pot on balcony")
 
-* **For oregano**, providing adequate daily light is crucial for its growth. You may need to position the pot under a separate bulb that remains on for a few additional hours compared to other herbs. Ideally, oregano requires around eight hours of light to thrive.
-* **Indoor rosemary** can be easily grown from cuttings or seeds, and choosing a variety that thrives indoors, such as 'Blue Spire,' is important. Rosemary prefers drier soil, so overwatering should be avoided.
-* **Chervil** is a fairly uncommon but delicious herb that is related to parsley and has a subtle flavor. It does well in low-light areas, making it a nice choice for kitchen corners and out-of-the-way spots. Keep in mind that it doesn't do well when temperatures begin to rise beyond 70 degrees Fahrenheit (21 degrees Celsius), so it's important to gauge your house's temperature before planting.
-* **Sage:** While starting sage indoors is not too difficult, it's important to be careful not to overwater it, as the plant is prone to death from too much water. Experts recommend waiting up to a year before harvesting, which can be challenging if you have limited kitchen garden space. However, the herb dries well after harvest and can still be a good addition to your indoor garden.
-* **[Basil](https://urbangardener.wiki/posts/how-to-grow-basil-indoors/):** Although basil is a staple in cooking, it can be notoriously difficult to grow from seed indoors. But you can opt for a small plant that has already been started. These are usually available at your local nursery or garden center. When selecting a plant, look for one with a sturdy stem and healthy leaves. Varieties with smaller leaves, such as 'Dark Opal' or "Thai basil", tend to work better for indoor gardening.
+- **For oregano**, providing adequate daily light is crucial for its growth. You may need to position the pot under a separate bulb that remains on for a few additional hours compared to other herbs. Ideally, oregano requires around eight hours of light to thrive.
+- **Indoor rosemary** can be easily grown from cuttings or seeds, and choosing a variety that thrives indoors, such as 'Blue Spire,' is important. Rosemary prefers drier soil, so overwatering should be avoided.
+- **Chervil** is a fairly uncommon but delicious herb that is related to parsley and has a subtle flavor. It does well in low-light areas, making it a nice choice for kitchen corners and out-of-the-way spots. Keep in mind that it doesn't do well when temperatures begin to rise beyond 70 degrees Fahrenheit (21 degrees Celsius), so it's important to gauge your house's temperature before planting.
+- **Sage:** While starting sage indoors is not too difficult, it's important to be careful not to overwater it, as the plant is prone to death from too much water. Experts recommend waiting up to a year before harvesting, which can be challenging if you have limited kitchen garden space. However, the herb dries well after harvest and can still be a good addition to your indoor garden.
+- **[Basil](https://urbangardener.wiki/posts/how-to-grow-basil-indoors/):** Although basil is a staple in cooking, it can be notoriously difficult to grow from seed indoors. But you can opt for a small plant that has already been started. These are usually available at your local nursery or garden center. When selecting a plant, look for one with a sturdy stem and healthy leaves. Varieties with smaller leaves, such as 'Dark Opal' or "Thai basil", tend to work better for indoor gardening.
 
 ![Homegrown basil herb](/images/uploads/homegrown-basil-herb-1-.jpg "Homegrown basil herb")
 
-* **Cilantro:** While cilantro grows well outdoors, it requires more care when grown indoors. It's important to grow it from seeds or starter plants, as it doesn't transplant well. Additionally, cilantro needs plenty of drainage and more nutrients than other herbs, making it challenging to keep the soil nourished. To help it thrive, fertilize it biweekly and only water when the soil is very dry.
+- **Cilantro:** While cilantro grows well outdoors, it requires more care when grown indoors. It's important to grow it from seeds or starter plants, as it doesn't transplant well. Additionally, cilantro needs plenty of drainage and more nutrients than other herbs, making it challenging to keep the soil nourished. To help it thrive, fertilize it biweekly and only water when the soil is very dry.
 
 ## Artificial lighting options to consider for indoor herb gardening
 
-When choosing a grow light, make sure to consider the size of your indoor herb garden and the specific lighting needs of the herbs you are growing. Keep in mind that different types of plants require different levels of light, so it's important to research the specific requirements of each herb before selecting a lighting option. 
+When choosing a grow light, make sure to consider the size of your indoor herb garden and the specific lighting needs of the herbs you are growing. Keep in mind that different types of plants require different levels of light, so it's important to research the specific requirements of each herb before selecting a lighting option.
 
-* **LED grow lights:** These lights provide a full spectrum of light that is optimized for plant growth. They are energy-efficient and can be adjusted to different levels of brightness.
-* **T5 fluorescent lights:** These lights are also great for indoor herb gardening as they produce a lot of light and are more affordable than LED lights. They work well for plants that require a lot of light, such as basil.
-* **HID lights:** High-intensity discharge (HID) lights are the most powerful and can produce the highest yields of herbs. However, they are also the most expensive and require a lot of electricity.
+- **LED grow lights:** These lights provide a full spectrum of light that is optimized for plant growth. They are energy-efficient and can be adjusted to different levels of brightness.
+- **T5 fluorescent lights:** These lights are also great for indoor herb gardening as they produce a lot of light and are more affordable than LED lights. They work well for plants that require a lot of light, such as basil.
+- **HID lights:** High-intensity discharge (HID) lights are the most powerful and can produce the highest yields of herbs. However, they are also the most expensive and require a lot of electricity.
 
 ## Soil Preparation For Indoor Herbs
 
@@ -82,33 +83,33 @@ To prevent soil compaction, it's advisable to **cultivate within the pot every m
 
 ## Choosing Pots and Containers For Herbs
 
-**Drainage is essential for herb growth**, and it is crucial to choose a planter that allows for ample flow. Any material works for containers, but terra cotta pots are not recommended as they make the herbs dry out faster, making it challenging to estimate their watering needs. While any container works, smaller pots are preferred to save space. 
+**Drainage is essential for herb growth**, and it is crucial to choose a planter that allows for ample flow. Any material works for containers, but terra cotta pots are not recommended as they make the herbs dry out faster, making it challenging to estimate their watering needs. While any container works, smaller pots are preferred to save space.
 
-However, **if the herbs start to spread over the edges or need more space, repotting them into a larger container is necessary.** Even if you choose to grow herbs in a unique container, it is essential to **drill some holes and add pebbles** to ensure proper drainage. 
+However, **if the herbs start to spread over the edges or need more space, repotting them into a larger container is necessary.** Even if you choose to grow herbs in a unique container, it is essential to **drill some holes and add pebbles** to ensure proper drainage.
 
 ## Planting and Caring Herbs
 
 ### **First Steps for Planting Herbs:**
 
-1. **Prepare your container and soil mix**. Make sure to give the mix some water to **keep your seeds from shifting** when you water them for the first time. 
-2. **Sow your seeds about one to three times deeper than their size.** If the seeds are small, press them barely into the soil and sprinkle some vermiculite on top. For larger seeds, press about half an inch and then cover them. 
+1. **Prepare your container and soil mix**. Make sure to give the mix some water to **keep your seeds from shifting** when you water them for the first time.
+2. **Sow your seeds about one to three times deeper than their size.** If the seeds are small, press them barely into the soil and sprinkle some vermiculite on top. For larger seeds, press about half an inch and then cover them.
 3. **Water the seeds lightly and cover the container with plastic wrap to keep the soil mix and seeds warm** and encourage germination. Place the container in a sunny area or under a light, and remove the plastic wrap when the seedlings emerge.
 
 ### **Maintaining Herb Growth:**
 
 While some herbs require specialized care, most can benefit from these tips for keeping them strong and healthy:
 
-* **Fertilize your herbs** every 10 days with diluted fish fertilizer found at any garden store. If you don't have fish fertilizer, you can soak seaweed in hot water for a few hours, let it cool, and then spray it on the plants as an "in a pinch" tactic.
-* **Herbs like humidity**, but it can be challenging to maintain this condition, especially in the winter. To create a humid environment, fill a tray with small rocks or pebbles and water, leaving about ¼ inch of the top dry. Place your pots on top of the trays, making sure they don't touch the water, and let the evaporation process help to keep the air at a good humidity level.
-* **Give your herbs a regular "bath" by misting them every few days.** This will help to keep them hydrated and cut down on insect issues since weakened plants are more susceptible to pests like aphids and spider mites.
-* **Water your herbs from the base, not the leaves.** This will help the plants to get hydrated without flattening out from too much water hitting the leaves.
+- **Fertilize your herbs** every 10 days with diluted fish fertilizer found at any garden store. If you don't have fish fertilizer, you can soak seaweed in hot water for a few hours, let it cool, and then spray it on the plants as an "in a pinch" tactic.
+- **Herbs like humidity**, but it can be challenging to maintain this condition, especially in the winter. To create a humid environment, fill a tray with small rocks or pebbles and water, leaving about ¼ inch of the top dry. Place your pots on top of the trays, making sure they don't touch the water, and let the evaporation process help to keep the air at a good humidity level.
+- **Give your herbs a regular "bath" by misting them every few days.** This will help to keep them hydrated and cut down on insect issues since weakened plants are more susceptible to pests like aphids and spider mites.
+- **Water your herbs from the base, not the leaves.** This will help the plants to get hydrated without flattening out from too much water hitting the leaves.
 
 ## Harvesting and Preserving Herbs
 
-* When harvesting herbs, **go for the "older" leaves** that are full and avoid clipping near new growth. If the plant begins to flower, snap off the flowering part to prolong the herb's lifespan.
-* **Stems of herbs tend to have abundant flavor** as well, so don't be afraid to use them in your dishes.
-* There are many ways to **preserve herbs for months, including drying, preserving in olive oil, and covering completely with honey**. Each method imparts a unique flavor to the herbs.
-* **Freshly harvested herbs can make a huge difference in the flavors of your dishes.** Consider growing your own kitchen garden to enjoy fresh herbs year-round.
+- When harvesting herbs, **go for the "older" leaves** that are full and avoid clipping near new growth. If the plant begins to flower, snap off the flowering part to prolong the herb's lifespan.
+- **Stems of herbs tend to have abundant flavor** as well, so don't be afraid to use them in your dishes.
+- There are many ways to **preserve herbs for months, including drying, preserving in olive oil, and covering completely with honey**. Each method imparts a unique flavor to the herbs.
+- **Freshly harvested herbs can make a huge difference in the flavors of your dishes.** Consider growing your own kitchen garden to enjoy fresh herbs year-round.
 
 ## Troubleshooting Your Herbs: Common Issues and Solutions
 

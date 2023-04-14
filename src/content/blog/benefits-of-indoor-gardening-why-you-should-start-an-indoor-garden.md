@@ -10,6 +10,7 @@ tags:
   - indoor-gardening
 draft: false
 ---
+
 Are you looking to grow your own produce or simply add some greenery to your living space? Outdoor gardening can be daunting, especially if you're new to the game. Luckily, indoor gardening offers a convenient and rewarding alternative that can be enjoyed by anyone, whether you're a homesteader or simply looking to embrace a more self-sufficient lifestyle.
 
 ![Kitchen with indoor grown herbs](/images/uploads/kitchen-with-indoor-grown-herbs.jpg "Kitchen with indoor grown herbs")
@@ -76,4 +77,4 @@ Plants provide emotional therapy and make great company. Tending to an indoor ga
 
 Medical experts recommend gardening to improve wellbeing and mental health. It's also a way of getting exercise, helping you stay fit. An indoor garden can reduce psychological and physiological stress and create a calming and comfortable environment.
 
-> If you are feeling inspired to begin your own indoor garden, take a look at our guide on [choosing a location for your indoor garden](https://urbangardener.wiki/posts/planning-indoor-garden/), and start your garden today!
+> If you are feeling inspired to begin your own indoor garden, take a look at our guide on [choosing a location for your indoor garden](https://urbangardener.wiki/posts/indoor-plant-lighting-zones/), and start your garden today!

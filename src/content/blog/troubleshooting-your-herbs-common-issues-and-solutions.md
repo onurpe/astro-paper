@@ -11,13 +11,14 @@ tags:
   - indoor-gardening
 draft: false
 ---
+
 Indoor herb gardening is a great way to enjoy fresh herbs year-round, but it's not without its challenges. If you're experiencing problems with your indoor herb garden, don't fret! Many gardeners encounter common issues, and there are solutions to help you overcome them. Here are some common issues and their solutions to keep your indoor herb garden thriving:
 
 ## Table of contents
 
 ## Slow Growth or Limited Germination:
 
-Insufficient light may be the issue. Herbs require at least five hours of light daily to thrive, and full sunshine is best if the area isn't too hot. Consider using a grow light to supplement your herb's light intake. If you notice slow growth, try increasing the hours of light up to fourteen if necessary.
+Insufficient light may be the issue. Herbs require at least five hours of light daily to thrive, and full sunshine is best if the area isn't too hot. Consider using a grow light to supplement your herb's light intake. If you notice slow growth, [indentify natural light zones of your house](https://urbangardener.wiki/posts/indoor-plant-lighting-zones/) and choose right spot for indoor plants or try increasing the hours of light up to fourteen if necessary.
 
 ![Slow Growth or Limited Germination In Herbs](/images/uploads/slow-growth-or-limited-germination-in-herbs.jpg)
 

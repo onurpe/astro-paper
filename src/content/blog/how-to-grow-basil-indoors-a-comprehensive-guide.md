@@ -12,6 +12,7 @@ tags:
   - indoor-gardening
 draft: false
 ---
+
 Basil, also known as sweet basil, is a familiar member of the Labiatae family that originated in western and tropical Asia. It is a versatile herb that can be grown indoors or outdoors, making it a perfect addition to your indoor herb garden. In this guide, we will cover everything you need to know about growing basil indoors, including how to grow basil from seed and cuttings, how long does basil take to grow, and tips for maintaining healthy plants.
 
 ## Table of contents
@@ -38,7 +39,7 @@ Make sure to also pinch back the main stem of the transplanted basil plant to en
 
 ## Lighting Requirements for Growing Basil Indoors
 
-Basil is a sun-loving herb that requires plenty of light to grow indoors. When [choosing a location for your plant](https://urbangardener.wiki/posts/planning-indoor-garden/), make sure it receives at least 6 hours of sunlight each day. If you don't have a sunny windowsill, you can supplement natural light with artificial grow lights.
+Basil is a sun-loving herb that requires plenty of light to grow indoors. When [choosing a location for your plant](https://urbangardener.wiki/posts/indoor-plant-lighting-zones/), make sure it receives at least 6 hours of sunlight each day. If you don't have a sunny windowsill, you can supplement natural light with artificial grow lights.
 
 For optimal growth, you should use a grow light that emits full-spectrum light, as this mimics the natural light that plants receive outdoors. LED grow lights are a popular choice for indoor gardeners because they are energy-efficient, long-lasting, and emit very little heat.
 
@@ -54,9 +55,9 @@ For optimal growth, you should use a grow light that emits full-spectrum light, 
 
 Here are a few recommended grow lights for growing basil indoors:
 
-* Spider Farmer SF-1000 LED Grow Light: This full-spectrum grow light is ideal for small indoor gardens and provides excellent coverage for one or two basil plants.
-* Viparspectra P1000 LED Grow Light: This high-performance grow light is perfect for larger indoor gardens and can support up to four basil plants.
-* Barrina LED Grow Light: This affordable option is great for beginners and provides full-spectrum light for up to two basil plants.
+- Spider Farmer SF-1000 LED Grow Light: This full-spectrum grow light is ideal for small indoor gardens and provides excellent coverage for one or two basil plants.
+- Viparspectra P1000 LED Grow Light: This high-performance grow light is perfect for larger indoor gardens and can support up to four basil plants.
+- Barrina LED Grow Light: This affordable option is great for beginners and provides full-spectrum light for up to two basil plants.
 
 ## Pinching and Pruning
 
