@@ -4,6 +4,7 @@ description: Delve deeper into the various stages of plant growth, the factors
   that influence it, and the timeframes for different types of plants.
 pubDatetime: 2023-08-29T21:03:33.726Z
 featured: false
+ogTitle: How Long Does It Take for Plants to Grow?
 ---
 
 # How Long Does it Take for Plants to Grow?
