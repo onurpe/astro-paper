@@ -5,7 +5,7 @@ description: Explore the basics of LED grow lights, the benefits of using them
   for tomato plants, and step-by-step guide on how to grow tomatoes successfully
   indoors.
 pubDatetime: 2023-08-29T20:57:46.588Z
-ogImage: ""
+ogImage: /images/uploads/grow-tomatoes-with-led-growth-lights.png
 tags:
   - tomato
 ---
