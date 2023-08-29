@@ -4,6 +4,7 @@ postSlug: home-grown-plant-ideas
 description: From boosting your mood and productivity to improving air quality,
   these plants are sure to brighten up your home.
 pubDatetime: 2023-08-29T21:21:16.378Z
+featured: true
 tags:
   - indoor-gardening
 ---
