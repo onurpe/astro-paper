@@ -5,6 +5,8 @@ description: Delve deeper into the various stages of plant growth, the factors
 pubDatetime: 2023-08-29T21:03:33.726Z
 featured: false
 ogImage: /images/uploads/how-long-does-it-take-for-plants-to-grow.png
+tags:
+  - plant-basics
 ---
 
 # How Long Does it Take for Plants to Grow?
