@@ -4,6 +4,8 @@ description: Explore the fascinating world of vegetable cultivation and dive
   into the various factors that influence their growth.
 pubDatetime: 2023-08-29T21:08:56.635Z
 ogImage: /images/uploads/where-do-vegetables-grow.png
+tags:
+  - plant-basics
 ---
 # Where Do Vegetables Grow?
 
