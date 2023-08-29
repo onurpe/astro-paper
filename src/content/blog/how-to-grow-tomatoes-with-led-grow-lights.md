@@ -1,5 +1,5 @@
 ---
-title: How to Grow Tomatoes with LED Grow Lights
+title: How to Grow Tomatoes with LED Grow Lights?
 postSlug: grow-tomatoes-led-lights
 description: Explore the basics of LED grow lights, the benefits of using them
   for tomato plants, and step-by-step guide on how to grow tomatoes successfully
