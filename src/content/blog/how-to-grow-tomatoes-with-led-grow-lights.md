@@ -4,12 +4,14 @@ postSlug: grow-tomatoes-led-lights
 description: Explore the basics of LED grow lights, the benefits of using them
   for tomato plants, and step-by-step guide on how to grow tomatoes successfully
   indoors.
-pubDatetime: 2023-08-29T20:20:54.124Z
-ogImage: /images/uploads/grow-tomatoes-with-led-growth-lights.png
+pubDatetime: 2023-08-29T20:57:46.588Z
+ogImage: ""
 tags:
   - tomato
 ---
 Growing tomatoes with LED grow lights has become increasingly popular among indoor gardeners. LED grow lights provide the necessary light spectrum and intensity for optimal tomato growth, enabling gardeners to cultivate tomatoes even in spaces with limited natural sunlight. In this article, we will explore the basics of LED grow lights, the benefits of using them for tomato plants, and provide a step-by-step guide on how to grow tomatoes successfully indoors.
+
+![Growing tomatoes with LED grow lights](/images/uploads/vertical-planters-with-led.jpg)
 
 ## Understanding the Basics of LED Grow Lights
 
