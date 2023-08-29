@@ -13,6 +13,8 @@ Growing tomatoes with LED grow lights has become increasingly popular among indo
 
 ![Growing tomatoes with LED grow lights](/images/uploads/vertical-planters-with-led.jpg)
 
+## Table of contents
+
 ## Understanding the Basics of LED Grow Lights
 
 LED grow lights have revolutionized indoor gardening by providing a tailored spectrum of light that is essential for plant growth. These lights, which stand for Light Emitting Diode, are designed to emit specific wavelengths of light that plants need for photosynthesis. Unlike traditional lighting sources like incandescent bulbs or fluorescent lights, LED grow lights can be customized to match the exact light requirements of different plants.
