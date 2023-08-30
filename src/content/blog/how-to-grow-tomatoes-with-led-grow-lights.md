@@ -11,7 +11,7 @@ tags:
 ---
 Growing tomatoes with LED grow lights has become increasingly popular among indoor gardeners. LED grow lights provide the necessary light spectrum and intensity for optimal tomato growth, enabling gardeners to cultivate tomatoes even in spaces with limited natural sunlight. In this article, we will explore the basics of LED grow lights, the benefits of using them for tomato plants, and provide a step-by-step guide on how to grow tomatoes successfully indoors.
 
-![Growing tomatoes with LED grow lights](/images/uploads/vertical-planters-with-led.jpg)
+![Growing tomatoes with LED growth lambs](/images/uploads/led-lambs-tomato.jpg)
 
 ## Table of contents
 
@@ -65,6 +65,8 @@ Aside from LED grow lights, there are a few essential equipment and supplies you
 Proper positioning of LED grow lights is crucial for the success of your indoor tomato cultivation. Ideally, the lights should be hung at a height of 12-18 inches above the tops of the tomato plants. This ensures that the plants receive an adequate amount of light without causing stress or burn damage.
 
 As the tomato plants grow taller, you may need to adjust the height of the LED lights. Keep in mind that tomato plants require around 10-12 hours of light per day for optimal growth.
+
+![Positioning Your LED Lights for Tomato Plants](/images/uploads/led-growth-lambs-for-tomato-plant.jpg)
 
 ### Determining the Right Light Intensity
 
