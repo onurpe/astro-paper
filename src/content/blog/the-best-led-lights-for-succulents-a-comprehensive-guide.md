@@ -17,7 +17,7 @@ Succulents, like all plants, rely on the process of photosynthesis to produce en
 
 Proper lighting not only promotes healthy growth in succulents but also affects their appearance and overall well-being. Insufficient light can cause succulents to become elongated, pale, and weak. On the other hand, excessive light exposure can lead to sunburn, discoloration, and stunted growth. Therefore, finding the right balance is essential.
 
-![Succulent plants](/images/uploads/indoor-succulent.jpg)
+![Succulent plants](/images/uploads/succulent-led-lamb.jpg)
 
 ### The Role of Photosynthesis in Succulent Growth
 
